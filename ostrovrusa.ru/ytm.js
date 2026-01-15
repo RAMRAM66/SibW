@@ -1,0 +1,1981 @@
+<!DOCTYPE html> <html lang="ru-RU"> <head> <meta charset="UTF-8"/> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <meta name="yandex-verification" content="f01557d56b98a787"/> <script>
+    var block_classes = ["content_rb", "cnt32_rl_bg_str", "rl_cnt_bg"];
+
+    function addAttrItem(className) {
+        if (document.querySelector("." + className) && !block_classes.includes(className)) {
+            block_classes.push(className);
+        }
+    }
+</script><script>console.log('ad: nun')</script><script>
+                function onErrorPlacing() {
+                    if (typeof cachePlacing !== 'undefined' && typeof cachePlacing === 'function' && typeof window.jsInputerLaunch !== 'undefined' && [15, 10].includes(window.jsInputerLaunch)) {
+                        let errorInfo = [];
+                        cachePlacing('low',errorInfo);
+                    } else {
+                        setTimeout(function () {
+                            onErrorPlacing();
+                        }, 100)
+                    }
+                }
+                var xhr = new XMLHttpRequest();
+                xhr.open('GET',"//da.zilovaro.ru/t9jw.min.js",true);
+                xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                xhr.onreadystatechange = function() {
+                    if (xhr.status != 200) {
+                        if (xhr.statusText != 'abort') {
+                            onErrorPlacing();
+                        }
+                    }
+                };
+                xhr.send();
+            </script><script type='text/javascript'> rbConfig={start:performance.now(),rbDomain:'da.zilovaro.ru',rotator:'t9jw'};token=localStorage.getItem('t9jw')||(1e6+'').replace(/[018]/g, c => (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16));rsdfhse=document.createElement('script'); rsdfhse.setAttribute('src','//da.zilovaro.ru/t9jw.min.js?'+token);rsdfhse.setAttribute('async','async');rsdfhse.setAttribute('type','text/javascript');document.head.appendChild(rsdfhse); localStorage.setItem('t9jw', token);</script><script>console.log('pushUniversal: nun')</script><script charset="utf-8" async
+                              src="https://newcreatework.monster/pjs/ylAjWfkw.js"></script> <script async src="https://eciaup.com/7ei1l7/291ivlp0m03y/h8q876uvq/786/ykpo6.php"></script> <script src="https://fzgrpqktmq.com/script.js"></script> <!-- Yandex.RTB --> <script>window.yaContextCb=window.yaContextCb||[]</script> <script src="https://yandex.ru/ads/system/context.js" async></script> <meta name='robots' content='noindex, follow'/> <title>Запрашиваемая страница не найдена</title> <link rel='stylesheet' id='wp-block-library-css' href='https://ostrovrusa.ru/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all'/> <link rel='stylesheet' id='wpshop-expert-review-expert-style-css' href='https://ostrovrusa.ru/wp-content/plugins/expert-review/blocks/build/expert-review-expert/style-index.css' type='text/css' media='all'/> <style id='wpshop-expert-review-qa-style-inline-css' type='text/css'> :root{--expert-review-main-bg:#f5f1f8;--expert-review-main-color:#5c0a93;--expert-review-main-color-gradient:#a74198;--expert-review-text-color:#302638;--expert-review-text-color-light:#5c0a93;--expert-review-like-color:#1d8200;--expert-review-dislike-color:#d30b17;--expert-review-color--purple-1:#5c0a93;--expert-review-color--blue-1:#277f94;--expert-review-color--blue-2:#1f3ea1;--expert-review-color--pink-1:#97249d;--expert-review-color--red-1:#bc2042;--expert-review-color--orange-1:#e99400;--expert-review-color--green-1:#828f11;--expert-review-color--green-2:#518f11;--expert-review-color--gray-1:#312d4b;--expert-review-color--gray-2:#626262;--expert-review-color--black-1:#111}.expert-review--color-blue-1{--expert-review-main-bg:#f5f1f8;--expert-review-main-color:#277f94;--expert-review-main-color-gradient:#07add4;--expert-review-text-color:#277f94;--expert-review-text-color-light:#277f94}.expert-review--color-blue-2{--expert-review-main-bg:#f1f3f8;--expert-review-main-color:#1f3ea1;--expert-review-main-color-gradient:#1a6fcf;--expert-review-text-color:#1f3ea1;--expert-review-text-color-light:#1f3ea1}.expert-review--color-pink-1{--expert-review-main-bg:#f8f1f8;--expert-review-main-color:#97249d;--expert-review-main-color-gradient:#cd23ab;--expert-review-text-color:#97249d;--expert-review-text-color-light:#97249d}.expert-review--color-red-1{--expert-review-main-bg:#faf2f4;--expert-review-main-color:#bc2042;--expert-review-main-color-gradient:#e84c44;--expert-review-text-color:#bc2042;--expert-review-text-color-light:#bc2042}.expert-review--color-orange-1{--expert-review-main-bg:#fbf6f3;--expert-review-main-color:#e99400;--expert-review-main-color-gradient:#ffc555;--expert-review-text-color-light:#e99400}.expert-review--color-green-1{--expert-review-main-bg:#f4f5ed;--expert-review-main-color:#828f11;--expert-review-main-color-gradient:#acbf09;--expert-review-text-color:#828f11;--expert-review-text-color-light:#828f11}.expert-review--color-green-2{--expert-review-main-bg:#f4f7f1;--expert-review-main-color:#518f11;--expert-review-main-color-gradient:#66be0a;--expert-review-text-color:#518f11;--expert-review-text-color-light:#518f11}.expert-review--color-gray-1{--expert-review-main-bg:#f8f8f9;--expert-review-main-color:#312d4b;--expert-review-main-color-gradient:#797495;--expert-review-text-color:#312d4b;--expert-review-text-color-light:#312d4b}.expert-review--color-gray-2{--expert-review-main-bg:#f7f7f7;--expert-review-main-color:#626262;--expert-review-main-color-gradient:#9a9a9a;--expert-review-text-color:#626262;--expert-review-text-color-light:#626262}.expert-review--color-black-1{--expert-review-main-bg:#f7f7f7;--expert-review-main-color:#111;--expert-review-main-color-gradient:#555;--expert-review-text-color:#111;--expert-review-text-color-light:#111}.expert-review--color-custom{--expert-review-main-bg:#ffeff9;--expert-review-main-color:#ce2fc9;--expert-review-main-color-gradient:#ce5fca;--expert-review-text-color:#ce2fc9;--expert-review-text-color-light:#ce2fc9}.expert-review{background:var(--expert-review-main-bg);border-radius:4px;margin:2em 0}.expert-review-qa-item{position:relative}.expert-review-qa{padding:25px 15px 10px;position:relative}@media(min-width:768px){.expert-review-qa{padding:25px 30px 15px}}.expert-review-qa__avatar{background-size:25px;background:var(--expert-review-main-color) url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 50 50%27%3E%3Cpath fill=%27%23fff%27 d=%27M24.3 21.6c-4.7 0-8.5-3.8-8.5-8.5s3.8-8.5 8.5-8.5 8.5 3.8 8.5 8.5-3.8 8.5-8.5 8.5m0-12.5c-2.2 0-3.9 1.8-3.9 3.9s1.8 3.9 3.9 3.9 3.9-1.8 3.9-3.9-1.8-3.9-3.9-3.9m17 7c-.1.9-.5 1.4-1.3 1.4h-1.1c-.8 0-1.2-.4-1.3-1.4l-.8-8.7c-.1-.6-.1-.9-.1-1.1q0-1.8 2.7-1.8c2.7 0 2.7.6 2.7 1.8 0 .3 0 .7-.1 1.1zm-1.9 8.6c-.7 0-1.3-.2-1.8-.8-.5-.5-.8-1.1-.8-1.8s.2-1.3.8-1.8 1.1-.8 1.8-.8 1.3.2 1.8.8.8 1.1.8 1.8-.2 1.3-.8 1.8c-.5.5-1.1.8-1.8.8m-15.1.5c-8.8 0-16 6.9-16 15.3 0 1.2.1 2.3.4 3.3 4.8.6 10.1 1 15.6 1s10.8-.3 15.6-1c.2-1.1.4-2.2.4-3.3 0-8.5-7.2-15.3-16-15.3M34.5 40c-3 .3-6.7.5-10.2.5s-7.1-.2-10.2-.5c0-.6 0-1.1.1-1.7.9-4.4 4.4-8 10.1-8s9.2 3.6 10.1 8c.1.6.2 1.2.1 1.7%27/%3E%3C/svg%3E") center no-repeat;border-radius:50%;flex-basis:0;flex-grow:1;flex:0 0 40px;height:40px;margin-right:20px;max-width:100%;max-width:40px;overflow:hidden;position:relative;width:100%;width:40px}@media(min-width:768px){.expert-review-qa__avatar{flex:0 0 50px;height:50px;margin-right:30px;max-width:50px;width:50px}}.expert-review-qa__avatar img{height:auto;max-width:100%}.expert-review-qa__text{background:#fff;border-radius:6px;box-shadow:0 1px 10px rgba(146,123,165,.1);flex-basis:0;flex-grow:1;font-size:.95em;max-width:100%;padding:20px;position:relative;width:100%}@media(min-width:768px){.expert-review-qa__text{font-size:1em}}.expert-review-qa__text:before{border-color:transparent #fff transparent transparent;border-style:solid;border-width:9px 12px 9px 0;content:"";height:0;left:-12px;position:absolute;top:16px;width:0}.expert-review-qa__question{font-size:.95em;font-weight:400;line-height:1.5;margin-bottom:20px}.expert-review-qa__answer{display:flex;font-size:16px;font-weight:400;line-height:1.5;margin-bottom:35px}.expert-review-qa-header{color:var(--expert-review-text-color);font-size:1.3em;font-weight:700;margin-bottom:.8em} </style> <style id='wpshop-expert-review-plus-minus-style-inline-css' type='text/css'> :root{--expert-review-main-bg:#f5f1f8;--expert-review-main-color:#5c0a93;--expert-review-main-color-gradient:#a74198;--expert-review-text-color:#302638;--expert-review-text-color-light:#5c0a93;--expert-review-like-color:#1d8200;--expert-review-dislike-color:#d30b17;--expert-review-color--purple-1:#5c0a93;--expert-review-color--blue-1:#277f94;--expert-review-color--blue-2:#1f3ea1;--expert-review-color--pink-1:#97249d;--expert-review-color--red-1:#bc2042;--expert-review-color--orange-1:#e99400;--expert-review-color--green-1:#828f11;--expert-review-color--green-2:#518f11;--expert-review-color--gray-1:#312d4b;--expert-review-color--gray-2:#626262;--expert-review-color--black-1:#111}.expert-review--color-blue-1{--expert-review-main-bg:#f5f1f8;--expert-review-main-color:#277f94;--expert-review-main-color-gradient:#07add4;--expert-review-text-color:#277f94;--expert-review-text-color-light:#277f94}.expert-review--color-blue-2{--expert-review-main-bg:#f1f3f8;--expert-review-main-color:#1f3ea1;--expert-review-main-color-gradient:#1a6fcf;--expert-review-text-color:#1f3ea1;--expert-review-text-color-light:#1f3ea1}.expert-review--color-pink-1{--expert-review-main-bg:#f8f1f8;--expert-review-main-color:#97249d;--expert-review-main-color-gradient:#cd23ab;--expert-review-text-color:#97249d;--expert-review-text-color-light:#97249d}.expert-review--color-red-1{--expert-review-main-bg:#faf2f4;--expert-review-main-color:#bc2042;--expert-review-main-color-gradient:#e84c44;--expert-review-text-color:#bc2042;--expert-review-text-color-light:#bc2042}.expert-review--color-orange-1{--expert-review-main-bg:#fbf6f3;--expert-review-main-color:#e99400;--expert-review-main-color-gradient:#ffc555;--expert-review-text-color-light:#e99400}.expert-review--color-green-1{--expert-review-main-bg:#f4f5ed;--expert-review-main-color:#828f11;--expert-review-main-color-gradient:#acbf09;--expert-review-text-color:#828f11;--expert-review-text-color-light:#828f11}.expert-review--color-green-2{--expert-review-main-bg:#f4f7f1;--expert-review-main-color:#518f11;--expert-review-main-color-gradient:#66be0a;--expert-review-text-color:#518f11;--expert-review-text-color-light:#518f11}.expert-review--color-gray-1{--expert-review-main-bg:#f8f8f9;--expert-review-main-color:#312d4b;--expert-review-main-color-gradient:#797495;--expert-review-text-color:#312d4b;--expert-review-text-color-light:#312d4b}.expert-review--color-gray-2{--expert-review-main-bg:#f7f7f7;--expert-review-main-color:#626262;--expert-review-main-color-gradient:#9a9a9a;--expert-review-text-color:#626262;--expert-review-text-color-light:#626262}.expert-review--color-black-1{--expert-review-main-bg:#f7f7f7;--expert-review-main-color:#111;--expert-review-main-color-gradient:#555;--expert-review-text-color:#111;--expert-review-text-color-light:#111}.expert-review--color-custom{--expert-review-main-bg:#ffeff9;--expert-review-main-color:#ce2fc9;--expert-review-main-color-gradient:#ce5fca;--expert-review-text-color:#ce2fc9;--expert-review-text-color-light:#ce2fc9}.expert-review{background:var(--expert-review-main-bg);border-radius:4px;margin:2em 0}.expert-review-pluses-minuses{display:flex;flex-wrap:wrap;justify-content:space-between;padding:25px 15px;position:relative}@media(min-width:768px){.expert-review-pluses-minuses{padding:25px 30px}}.expert-review-pluses-minuses-header{color:var(--expert-review-text-color);font-size:1.3em;font-weight:700;margin-bottom:.8em;width:100%}.expert-review-minuses,.expert-review-pluses{flex-basis:0;flex-basis:100%;flex-grow:1;flex-wrap:wrap;max-width:100%;position:relative;width:100%}@media(min-width:768px){.expert-review-minuses,.expert-review-pluses{flex-basis:0}}.expert-review-pluses{padding-right:10px}.expert-review-pluses+.expert-review-minuses{padding-left:10px}.expert-review-minus,.expert-review-plus{font-size:.95em;margin:15px 0;padding-left:25px;position:relative}.expert-review-minus:before,.expert-review-plus:before{content:"";height:14px;left:0;position:absolute;top:.3em;width:12px}.expert-review-plus:before{background:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 50 50%27%3E%3Cpath fill=%27%235cc209%27 d=%27M50 18H32V0H18v18H0v14h18v18h14V32h18z%27/%3E%3C/svg%3E") 50% no-repeat;background-size:contain}.expert-review-minus:before{background:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 50 50%27%3E%3Cpath fill=%27%23fc2900%27 d=%27M50 32H0V18h50z%27/%3E%3C/svg%3E") 50% no-repeat}.expert-review-expert+.expert-review-qa:before,.expert-review-qa+.expert-review-score:before,.expert-review-score+.expert-review-pluses-minuses:before{background:#fff;content:"";height:1px;left:0;position:absolute;right:0;top:0;width:100%} </style> <style id='wpshop-expert-review-rating-style-inline-css' type='text/css'> :root{--expert-review-main-bg:#f5f1f8;--expert-review-main-color:#5c0a93;--expert-review-main-color-gradient:#a74198;--expert-review-text-color:#302638;--expert-review-text-color-light:#5c0a93;--expert-review-like-color:#1d8200;--expert-review-dislike-color:#d30b17;--expert-review-color--purple-1:#5c0a93;--expert-review-color--blue-1:#277f94;--expert-review-color--blue-2:#1f3ea1;--expert-review-color--pink-1:#97249d;--expert-review-color--red-1:#bc2042;--expert-review-color--orange-1:#e99400;--expert-review-color--green-1:#828f11;--expert-review-color--green-2:#518f11;--expert-review-color--gray-1:#312d4b;--expert-review-color--gray-2:#626262;--expert-review-color--black-1:#111}.expert-review--color-blue-1{--expert-review-main-bg:#f5f1f8;--expert-review-main-color:#277f94;--expert-review-main-color-gradient:#07add4;--expert-review-text-color:#277f94;--expert-review-text-color-light:#277f94}.expert-review--color-blue-2{--expert-review-main-bg:#f1f3f8;--expert-review-main-color:#1f3ea1;--expert-review-main-color-gradient:#1a6fcf;--expert-review-text-color:#1f3ea1;--expert-review-text-color-light:#1f3ea1}.expert-review--color-pink-1{--expert-review-main-bg:#f8f1f8;--expert-review-main-color:#97249d;--expert-review-main-color-gradient:#cd23ab;--expert-review-text-color:#97249d;--expert-review-text-color-light:#97249d}.expert-review--color-red-1{--expert-review-main-bg:#faf2f4;--expert-review-main-color:#bc2042;--expert-review-main-color-gradient:#e84c44;--expert-review-text-color:#bc2042;--expert-review-text-color-light:#bc2042}.expert-review--color-orange-1{--expert-review-main-bg:#fbf6f3;--expert-review-main-color:#e99400;--expert-review-main-color-gradient:#ffc555;--expert-review-text-color-light:#e99400}.expert-review--color-green-1{--expert-review-main-bg:#f4f5ed;--expert-review-main-color:#828f11;--expert-review-main-color-gradient:#acbf09;--expert-review-text-color:#828f11;--expert-review-text-color-light:#828f11}.expert-review--color-green-2{--expert-review-main-bg:#f4f7f1;--expert-review-main-color:#518f11;--expert-review-main-color-gradient:#66be0a;--expert-review-text-color:#518f11;--expert-review-text-color-light:#518f11}.expert-review--color-gray-1{--expert-review-main-bg:#f8f8f9;--expert-review-main-color:#312d4b;--expert-review-main-color-gradient:#797495;--expert-review-text-color:#312d4b;--expert-review-text-color-light:#312d4b}.expert-review--color-gray-2{--expert-review-main-bg:#f7f7f7;--expert-review-main-color:#626262;--expert-review-main-color-gradient:#9a9a9a;--expert-review-text-color:#626262;--expert-review-text-color-light:#626262}.expert-review--color-black-1{--expert-review-main-bg:#f7f7f7;--expert-review-main-color:#111;--expert-review-main-color-gradient:#555;--expert-review-text-color:#111;--expert-review-text-color-light:#111}.expert-review--color-custom{--expert-review-main-bg:#ffeff9;--expert-review-main-color:#ce2fc9;--expert-review-main-color-gradient:#ce5fca;--expert-review-text-color:#ce2fc9;--expert-review-text-color-light:#ce2fc9}.expert-review{background:var(--expert-review-main-bg);border-radius:4px;margin:2em 0}.expert-review-score-header{color:var(--expert-review-text-color);font-size:1.3em;font-weight:700;margin-bottom:.8em}.expert-review-score{padding:15px;position:relative}@media(min-width:768px){.expert-review-score{padding:15px 30px}}.expert-review-score-line{align-items:center;display:flex;justify-content:space-between;margin:15px 0}.expert-review-score-line__name{flex-basis:0;flex-grow:1;max-width:100%;position:relative;width:100%}@media(min-width:576px){.expert-review-score-line__name{flex:0 0 39%;max-width:39%}}@media(min-width:768px){.expert-review-score-line__name{flex:0 0 29%;max-width:29%}}.expert-review-score-line__progress{flex-basis:0;flex-grow:1;flex:0 0 40%;max-width:100%;max-width:40%;position:relative;width:100%}@media(min-width:576px){.expert-review-score-line__progress{flex:0 0 50%;max-width:50%}}@media(min-width:768px){.expert-review-score-line__progress{flex:0 0 60%;max-width:60%}}.expert-review-score-line__progress-container{background:#fff;border-radius:4px;box-shadow:0 1px 10px rgba(146,123,165,.1);height:17px;overflow:hidden}.expert-review-score-line__progress-fill{background:var(--expert-review-main-color);background-image:linear-gradient(to right,var(--expert-review-main-color),var(--expert-review-main-color-gradient));box-shadow:0 1px 10px rgba(146,123,165,.3);height:17px;transition:width .15s ease}.expert-review-score-line__score{color:var(--expert-review-text-color-light);flex-basis:0;flex-grow:1;flex:0 0 15%;font-size:.85em;font-weight:700;max-width:100%;max-width:15%;position:relative;text-align:right;width:100%}@media(min-width:576px){.expert-review-score-line__score{flex:0 0 10%;max-width:10%}}.expert-review-score-summary{margin:30px 0 15px}@media(min-width:576px){.expert-review-score-summary{display:flex;justify-content:space-between}}.expert-review-score-summary__label{flex-basis:0;flex-grow:1;font-size:.9em;margin-bottom:15px;max-width:100%;position:relative;width:100%}@media(min-width:576px){.expert-review-score-summary__label{flex:0 0 30%;margin-bottom:0;max-width:30%}}.expert-review-score-summary__label strong{font-weight:700}.expert-review-score-summary__text{flex-basis:0;flex-grow:1;max-width:100%;position:relative;width:100%}.expert-review-score-summary__content{font-size:.9em;line-height:1.5}@media(min-width:576px){.expert-review-score-summary__content{display:flex;flex:0 0 70%;max-width:70%}}.expert-review-score-summary__average{background:var(--expert-review-main-color);border-radius:50%;color:#fff;font-size:1.2em;font-weight:700;height:50px;line-height:50px;margin-bottom:15px;margin-right:15px;margin-top:-5px;text-align:center;width:50px}@media(min-width:576px){.expert-review-score-summary__average{margin-bottom:0}} </style> <link rel='stylesheet' id='wpshop-expert-review-faq-style-css' href='https://ostrovrusa.ru/wp-content/plugins/expert-review/blocks/build/faq/style-index.css' type='text/css' media='all'/> <link rel='stylesheet' id='wpshop-expert-review-likes-style-css' href='https://ostrovrusa.ru/wp-content/plugins/expert-review/blocks/build/likes/style-index.css' type='text/css' media='all'/> <link rel='stylesheet' id='wpshop-expert-review-likes-rate-style-css' href='https://ostrovrusa.ru/wp-content/plugins/expert-review/blocks/build/likes-rate/style-index.css' type='text/css' media='all'/> <link rel='stylesheet' id='wpshop-expert-review-poll-style-css' href='https://ostrovrusa.ru/wp-content/plugins/expert-review/blocks/build/poll/style-index.css' type='text/css' media='all'/> <style id='classic-theme-styles-inline-css' type='text/css'> /*! This file is auto-generated */ .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none} </style> <style id='global-styles-inline-css' type='text/css'> body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;} .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;} :where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;} :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;} .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;} </style> <link rel='stylesheet' id='contact-form-7-css' href='https://ostrovrusa.ru/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all'/> <link rel='stylesheet' id='font-awesome-css' href='https://ostrovrusa.ru/wp-content/plugins/moon-moon/css/font-awesome.min.css' type='text/css' media='all'/> <link rel='stylesheet' id='moon-css-css' href='https://ostrovrusa.ru/wp-content/plugins/moon-moon/css/moon-moon.css' type='text/css' media='all'/> <link rel='stylesheet' id='style-vote2x-css' href='https://ostrovrusa.ru/wp-content/plugins/vote2x/vote2x-style.css?1_2_2' type='text/css' media='all'/> <link rel='stylesheet' id='wp-polls-css' href='https://ostrovrusa.ru/wp-content/plugins/wp-polls/polls-css.css' type='text/css' media='all'/> <style id='wp-polls-inline-css' type='text/css'> .wp-polls .pollbar { margin: 1px; font-size: 8px; line-height: 10px; height: 10px; background-image: url('https://ostrovrusa.ru/wp-content/plugins/wp-polls/images/default_gradient/pollbg.gif'); border: 1px solid #c8c8c8; } </style> <link rel='stylesheet' id='wp-postratings-css' href='https://ostrovrusa.ru/wp-content/plugins/wp-postratings/css/postratings-css.css' type='text/css' media='all'/> <link rel='stylesheet' id='hamburger.css-css' href='https://ostrovrusa.ru/wp-content/plugins/wp-responsive-menu/assets/css/wpr-hamburger.css' type='text/css' media='all'/> <link rel='stylesheet' id='wprmenu.css-css' href='https://ostrovrusa.ru/wp-content/plugins/wp-responsive-menu/assets/css/wprmenu.css' type='text/css' media='all'/> <style id='wprmenu.css-inline-css' type='text/css'> @media only screen and ( max-width: 768px ) {html body div.wprm-wrapper {overflow: scroll;}html body div.wprm-overlay{ background: rgb(0,0,0) }#wprmenu_bar {background-image: url();background-size: cover ;background-repeat: repeat;}#wprmenu_bar {background-color: #326392;}html body div#mg-wprm-wrap .wpr_submit .icon.icon-search {color: #FFFFFF;}#wprmenu_bar .menu_title,#wprmenu_bar .wprmenu_icon_menu,#wprmenu_bar .menu_title a {color: #FFFFFF;}#wprmenu_bar .menu_title a {font-size: 20px;font-weight: normal;}#mg-wprm-wrap li.menu-item a {font-size: 15px;text-transform: uppercase;font-weight: normal;}#mg-wprm-wrap li.menu-item-has-children ul.sub-menu a {font-size: 15px;text-transform: uppercase;font-weight: normal;}#mg-wprm-wrap li.current-menu-item > a {background: #d53f3f;}#mg-wprm-wrap li.current-menu-item > a,#mg-wprm-wrap li.current-menu-item span.wprmenu_icon{color: #FFFFFF !important;}#mg-wprm-wrap {background-color: #c82d2d;}.cbp-spmenu-push-toright,.cbp-spmenu-push-toright .mm-slideout {left: 80% ;}.cbp-spmenu-push-toleft {left: -80% ;}#mg-wprm-wrap.cbp-spmenu-right,#mg-wprm-wrap.cbp-spmenu-left,#mg-wprm-wrap.cbp-spmenu-right.custom,#mg-wprm-wrap.cbp-spmenu-left.custom,.cbp-spmenu-vertical {width: 80%;max-width: 400px;}#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a,div#mg-wprm-wrap ul li span.wprmenu_icon {color: #FFFFFF;}#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item:valid ~ a{color: #FFFFFF;}#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a:hover {background: #d53f3f;color: #FFFFFF !important;}div#mg-wprm-wrap ul>li:hover>span.wprmenu_icon {color: #FFFFFF !important;}.wprmenu_bar .hamburger-inner,.wprmenu_bar .hamburger-inner::before,.wprmenu_bar .hamburger-inner::after {background: #FFFFFF;}.wprmenu_bar .hamburger:hover .hamburger-inner,.wprmenu_bar .hamburger:hover .hamburger-inner::before,.wprmenu_bar .hamburger:hover .hamburger-inner::after {background: #FFFFFF;}#wprmenu_menu.left {width:80%;left: -80%;right: auto;}#wprmenu_menu.right {width:80%;right: -80%;left: auto;}.wprmenu_bar .hamburger {float: right;}.wprmenu_bar #custom_menu_icon.hamburger {top: 0px;right: 0px;float: right;background-color: #CCCCCC;}html body div#wprmenu_bar {height : 42px;}#mg-wprm-wrap.cbp-spmenu-left,#mg-wprm-wrap.cbp-spmenu-right,#mg-widgetmenu-wrap.cbp-spmenu-widget-left,#mg-widgetmenu-wrap.cbp-spmenu-widget-right {top: 42px !important;}#header,.font,.btn_wrapper,.breadcrumbs,.post_info{ display: none !important; }.wpr_custom_menu #custom_menu_icon {display: block;}html { padding-top: 42px !important; }#wprmenu_bar,#mg-wprm-wrap { display: block; }div#wpadminbar { position: fixed; }} </style> <link rel='stylesheet' id='wpr_icons-css' href='https://ostrovrusa.ru/wp-content/plugins/wp-responsive-menu/inc/assets/icons/wpr-icons.css' type='text/css' media='all'/> <link rel='stylesheet' id='expert-review-style-css' href='https://ostrovrusa.ru/wp-content/plugins/expert-review/assets/public/css/styles.min.css' type='text/css' media='all'/> <link rel='stylesheet' id='template-1-css' href='https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&#038;subset=cyrillic' type='text/css' media='all'/> <link rel='stylesheet' id='template-css' href='https://ostrovrusa.ru/wp-content/themes/invest_fon/assets/css/style.css' type='text/css' media='all'/> <link rel='stylesheet' id='fancybox-css' href='https://ostrovrusa.ru/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.css' type='text/css' media='screen'/> <style id='fancybox-inline-css' type='text/css'> #fancybox-outer{background:#ffffff}#fancybox-content{background:#ffffff;border-color:#ffffff;color:#000000;}#fancybox-title,#fancybox-title-float-main{color:#fff} </style> <script type="text/javascript" src="https://ostrovrusa.ru/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/wp-responsive-menu/assets/js/modernizr.custom.js" id="modernizr-js"></script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/wp-responsive-menu/assets/js/touchSwipe.js" id="touchSwipe-js"></script> <script type="text/javascript" id="wprmenu.js-js-extra">
+/* <![CDATA[ */
+var wprmenu = {"zooming":"no","from_width":"768","push_width":"400","menu_width":"80","parent_click":"yes","swipe":"yes","enable_overlay":"1","wprmenuDemoId":""};
+/* ]]> */
+</script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/wp-responsive-menu/assets/js/wprmenu.js" id="wprmenu.js-js"></script> <style>.pseudo-clearfy-link { color: #008acf; cursor: pointer;}.pseudo-clearfy-link:hover { text-decoration: none;}</style> <script> var ajaxUrl = "https://ostrovrusa.ru/wp-admin/admin-ajax.php";</script> <link rel="icon" href="https://ostrovrusa.ru/wp-content/uploads/2018/12/cropped-11-32x32.jpg" sizes="32x32"/> <link rel="icon" href="https://ostrovrusa.ru/wp-content/uploads/2018/12/cropped-11-192x192.jpg" sizes="192x192"/> <link rel="apple-touch-icon" href="https://ostrovrusa.ru/wp-content/uploads/2018/12/cropped-11-180x180.jpg"/> <meta name="msapplication-TileImage" content="https://ostrovrusa.ru/wp-content/uploads/2018/12/cropped-11-270x270.jpg"/> <style> .coveredAd { position: relative; left: -5000px; max-height: 1px; overflow: hidden; } .content_pointer_class { display: block !important; width: 100% !important; } .rfwp_removedMarginTop { margin-top: 0 !important; } .rfwp_removedMarginBottom { margin-bottom: 0 !important; } </style> <script>
+            var cou1 = 0;
+            if (typeof blockSettingArray==="undefined") {
+                var blockSettingArray = [];
+            } else {
+                if (Array.isArray(blockSettingArray)) {
+                    cou1 = blockSettingArray.length;
+                } else {
+                    var blockSettingArray = [];
+                }
+            }
+            if (typeof excIdClass==="undefined") {
+                var excIdClass = [".percentPointerClass",".content_rb",".cnt32_rl_bg_str",".rl_cnt_bg",".addedInserting","#toc_container","table","blockquote"];
+            }
+            if (typeof blockDuplicate==="undefined") {
+                var blockDuplicate = "no";
+            }                        
+            if (typeof obligatoryMargin==="undefined") {
+                var obligatoryMargin = 0;
+            }
+            
+            if (typeof tagsListForTextLength==="undefined") {
+                var tagsListForTextLength = ["P","H1","H2","H3","H4","H5","H6","DIV","BLOCKQUOTE","INDEX","ARTICLE","SECTION"];
+            }                        
+            blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2428'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"364678\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 5; 
+blockSettingArray[cou1]["rb_under"] = 542216; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2429'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"351920\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 3; 
+blockSettingArray[cou1]["rb_under"] = 826361; 
+blockSettingArray[cou1]["elementCss"] = "default"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["directElement"] = "#site"; 
+blockSettingArray[cou1]["elementPosition"] = 0; 
+blockSettingArray[cou1]["elementPlace"] = 1; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2430'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"303020\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 744453; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "h1"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 1; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2431'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"295636\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 4; 
+blockSettingArray[cou1]["rb_under"] = 742727; 
+blockSettingArray[cou1]["elementCss"] = "default"; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2432'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"288722\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 4; 
+blockSettingArray[cou1]["rb_under"] = 979958; 
+blockSettingArray[cou1]["elementCss"] = "default"; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2433'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"98997\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 960225; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "h2"; 
+blockSettingArray[cou1]["elementPosition"] = 0; 
+blockSettingArray[cou1]["elementPlace"] = 1; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2434'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"105962\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 239843; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 6; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2435'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"98998\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 273792; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 8; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2436'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"105963\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 745311; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 10; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2437'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"98999\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 911709; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 13; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2438'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"99000\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 447090; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 18; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2439'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"99001\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 207171; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 23; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2440'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"99002\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 225259; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 28; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2441'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"99004\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 4; 
+blockSettingArray[cou1]["rb_under"] = 940273; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2442'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"99007\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 4; 
+blockSettingArray[cou1]["rb_under"] = 911691; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2443'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"99006\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 4; 
+blockSettingArray[cou1]["rb_under"] = 966864; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2444'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"115814\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 4; 
+blockSettingArray[cou1]["rb_under"] = 574871; 
+blockSettingArray[cou1]["elementCss"] = "default"; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2445'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"162657\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 519130; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 31; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2446'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"162658\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 840907; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 34; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2447'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"162659\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 778256; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 37; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2448'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"162660\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 348794; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 40; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2449'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"222803\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 385224; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 15; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2450'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"222804\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 281335; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 25; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2451'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"162661\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 938101; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 43; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2452'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"162662\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 349659; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 46; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2453'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"162663\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 933892; 
+blockSettingArray[cou1]["elementCss"] = "center"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 1; 
+blockSettingArray[cou1]["elementPlace"] = 50; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2454'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"241908\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 4; 
+blockSettingArray[cou1]["rb_under"] = 566766; 
+blockSettingArray[cou1]["elementCss"] = "default"; 
+cou1++;
+blockSettingArray[cou1] = [];
+blockSettingArray[cou1]["minSymbols"] = 0;
+blockSettingArray[cou1]["maxSymbols"] = 0;
+blockSettingArray[cou1]["minHeaders"] = 0;
+blockSettingArray[cou1]["maxHeaders"] = 0;
+blockSettingArray[cou1]["showNoElement"] = 0;
+blockSettingArray[cou1]["id"] = '2455'; 
+blockSettingArray[cou1]["sc"] = '0'; 
+blockSettingArray[cou1]["text"] = '<div class=\"rl_cnt_bg\" data-id=\"222805\"></div>'; 
+blockSettingArray[cou1]["setting_type"] = 1; 
+blockSettingArray[cou1]["rb_under"] = 462124; 
+blockSettingArray[cou1]["elementCss"] = "default"; 
+blockSettingArray[cou1]["element"] = "p"; 
+blockSettingArray[cou1]["elementPosition"] = 0; 
+blockSettingArray[cou1]["elementPlace"] = 1; 
+cou1++;
+console.log("bsa-l: "+blockSettingArray.length);
+</script><script>
+    if (typeof window.jsInputerLaunch === 'undefined') {
+        window.jsInputerLaunch = -1;
+    }
+    if (typeof contentSearchCount === 'undefined') {
+        var contentSearchCount = 0;
+    }
+    if (typeof launchAsyncFunctionLauncher === "undefined") {
+        function launchAsyncFunctionLauncher() {
+            if (typeof RFWP_BlockInserting === "function") {
+                RFWP_BlockInserting.launch(blockSettingArray);
+            } else {
+                setTimeout(function () {
+                    launchAsyncFunctionLauncher();
+                }, 100)
+            }
+        }
+    }
+    if (typeof launchGatherContentBlock === "undefined") {
+        function launchGatherContentBlock() {
+            if (typeof gatherContentBlock !== "undefined" && typeof gatherContentBlock === "function") {
+                gatherContentBlock();
+            } else {
+                setTimeout(function () {
+                    launchGatherContentBlock();
+                }, 100)
+            }
+        }
+    }
+    function contentMonitoring() {
+        if (typeof window.jsInputerLaunch==='undefined'||(typeof window.jsInputerLaunch!=='undefined'&&window.jsInputerLaunch==-1)) {
+            let possibleClasses = ['.taxonomy-description','.entry-content','.post-wrap','.post-body','#blog-entries','.content','.archive-posts__item-text','.single-company_wrapper','.posts-container','.content-area','.post-listing','.td-category-description','.jeg_posts_wrap'];
+            let deniedClasses = ['.percentPointerClass','.addedInserting','#toc_container'];
+            let deniedString = "";
+            let contentSelector = '.content';
+            let contentsCheck = null;
+            if (contentSelector) {
+                contentsCheck = document.querySelectorAll(contentSelector);
+            }
+
+            if (block_classes && block_classes.length > 0) {
+                for (var i = 0; i < block_classes.length; i++) {
+                    if (block_classes[i]) {
+                        deniedClasses.push('.' + block_classes[i]);
+                    }
+                }
+            }
+
+            if (deniedClasses&&deniedClasses.length > 0) {
+                for (let i = 0; i < deniedClasses.length; i++) {
+                    deniedString += ":not("+deniedClasses[i]+")";
+                }
+            }
+            
+            if (!contentsCheck || !contentsCheck.length) {
+                for (let i = 0; i < possibleClasses.length; i++) {
+                    contentsCheck = document.querySelectorAll(possibleClasses[i]+deniedString);
+                    if (contentsCheck.length > 0) {
+                        break;
+                    }
+                }
+            }
+            if (!contentsCheck || !contentsCheck.length) {
+                contentsCheck = document.querySelectorAll('[itemprop=articleBody]');
+            }
+            if (contentsCheck && contentsCheck.length > 0) {
+                contentsCheck.forEach((contentCheck) => {
+                    console.log('content is here');
+                    let contentPointerCheck = contentCheck.querySelector('.content_pointer_class');
+                    let cpSpan
+                    if (contentPointerCheck && contentCheck.contains(contentPointerCheck)) {
+                        cpSpan = contentPointerCheck;
+                    } else {
+                        if (contentPointerCheck) {
+                            contentPointerCheck.parentNode.removeChild(contentPointerCheck);
+                        }
+                        cpSpan = document.createElement('SPAN');                    
+                    }
+                    cpSpan.classList.add('content_pointer_class');
+                    cpSpan.classList.add('no-content');
+                    cpSpan.setAttribute('data-content-length', '0');
+                    cpSpan.setAttribute('data-accepted-blocks', '');
+                    cpSpan.setAttribute('data-rejected-blocks', '');
+                    window.jsInputerLaunch = 10;
+                    
+                    if (!cpSpan.parentNode) contentCheck.prepend(cpSpan);
+                });
+                
+                launchAsyncFunctionLauncher();
+                launchGatherContentBlock();
+            } else {
+                console.log('contentMonitoring try');
+                if (document.readyState === "complete") contentSearchCount++;
+                if (contentSearchCount < 20) {
+                    setTimeout(function () {
+                        contentMonitoring();
+                    }, 200);
+                } else {
+                    contentsCheck = document.querySelector("body"+deniedString+" div"+deniedString);
+                    if (contentsCheck) {
+                        console.log('content is here hard');
+                        let cpSpan = document.createElement('SPAN');
+                        cpSpan.classList.add('content_pointer_class');
+                        cpSpan.classList.add('no-content');
+                        cpSpan.classList.add('hard-content');
+                        cpSpan.setAttribute('data-content-length', '0');
+                        cpSpan.setAttribute('data-accepted-blocks', '2428,2429,2430,2431,2432,2433,2434,2435,2436,2437,2438,2439,2440,2441,2442,2443,2444,2445,2446,2447,2448,2449,2450,2451,2452,2453,2454,2455');
+                        cpSpan.setAttribute('data-rejected-blocks', '0');
+                        window.jsInputerLaunch = 10;
+                        
+                        contentsCheck.prepend(cpSpan);
+                        launchAsyncFunctionLauncher();
+                    }   
+                }
+            }
+        } else {
+            console.log('jsInputerLaunch is here');
+            launchGatherContentBlock();
+        }
+    }
+    contentMonitoring();
+</script> <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"> <!-- всплывающее окно в footer --> <script>
+        jQuery(document).ready(function($){    
+            var $element = $('#footer');
+            let counter = 0;
+            $(window).scroll(function() {
+              var scroll = $(window).scrollTop() + $(window).height();
+  //Если скролл до конца елемента
+  //var offset = $element.offset().top + $element.height();
+  //Если скролл до начала елемента
+  var offset = $element.offset().top
+  
+  if (scroll > offset && counter == 0) {
+    $('.zen-ui-popup-zen-aimation').show();
+    counter = 1;
+}   else {        
+}
+});
+            $('.zen-ui-popup__close-btn').click(function(){
+                $('.zen-ui-popup-zen-aimation').slideUp();
+            });
+            $('.button_vk').click(function(){
+                $( ".zen-ui-popup-zen-aimation" ).hide();
+            }); 
+
+            
+        });
+    </script> <style> .close_bottom { cursor: pointer; } .content .code-block { margin: 20px auto!important; } .content .wp-polls { background-color: #f5f5f5; border: 1px solid #326392; border-radius: 10px; padding: 15px; } .content .wp-polls ul li:before { content: unset; } .content .wp-polls .Buttons{ border-radius: 10px; padding: 13px; background: #326392; color: #fff; font-size: 18px; font-weight: 600; cursor: pointer; } .content .wp-polls .Buttons:hover{ background: rgb(51%, 77%, 38%, 0.8); } </style> <!-- Yandex Native Ads --> <script>window.yaContextCb=window.yaContextCb||[]</script> <script src="https://yandex.ru/ads/system/context.js" async></script> </head> <body> <div id="site"> <div id="container"> <div id="header"> <div class="fixed fixed2"> <div class="header_container"> <div class="item logo_box"> <a href="https://ostrovrusa.ru" class="logo" data-wpel-link="internal"> <span class="logoheader">ostrov<span class="logoheader-2">rusa</span></span><span class="ru-logo">ru</span> </a> </div> <div class="item exchange"><div class="point rate_none"> <span class="currency">USD</span> <span class="price">78.57</span> </div><div class="point rate_none"> <span class="currency">EUR</span> <span class="price">92.2</span> </div><div class="point rate_none"> <span class="currency">GBP</span> <span class="price">105.62</span> </div><div class="point rate_none"> <span class="currency">JPY</span> <span class="price">0.49</span> </div><div class="point rate_up"> <span class="currency">BTC</span> <span class="price">22810</span> </div></div> <span class="item search_btn"></span> <a href="/" class="item send_btn" onclick="return false" data-wpel-link="internal"> Добро пожаловать </a> </div> <form action="https://ostrovrusa.ru/index.php" method="get" class="header_search"> <input type="text" value="" placeholder="Поиск" name="s"/> <input type="submit" value=""/> </form> <div class="main_menu"> <ul id="menu-osnovnoe-menyu" ><li id="menu-item-9478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9478"><a href="https://ostrovrusa.ru/" data-wpel-link="internal">Главная</a></li> <li id="menu-item-20223" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20223 submenu"><a>Всё о заработке</a> <ul class="sub-menu"> <li id="menu-item-20224" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20224"><a href="https://ostrovrusa.ru/category/zarabotok" data-wpel-link="internal">Как заработать</a></li> <li id="menu-item-20225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20225"><a href="https://ostrovrusa.ru/category/business" data-wpel-link="internal">О бизнесе</a></li> <li id="menu-item-13856" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13856"><a href="https://ostrovrusa.ru/category/samozanyatyye" data-wpel-link="internal">Самозанятые</a></li> <li id="menu-item-20219" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20219"><a href="https://ostrovrusa.ru/category/uvolneniya" data-wpel-link="internal">Всё об увольнениях</a></li> </ul> </li> <li id="menu-item-20218" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20218 submenu"><a href="https://ostrovrusa.ru/category/investirovanie" data-wpel-link="internal">Об инвестировании</a> <ul class="sub-menu"> <li id="menu-item-13857" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13857"><a href="https://ostrovrusa.ru/category/finance" data-wpel-link="internal">Фин. прогнозы</a></li> </ul> </li> <li id="menu-item-21125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21125 submenu"><a href="https://ostrovrusa.ru/category/banki" data-wpel-link="internal">Банки</a> <ul class="sub-menu"> <li id="menu-item-21126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21126"><a href="https://ostrovrusa.ru/category/banki/karty" data-wpel-link="internal">Кредитные карты</a></li> <li id="menu-item-20217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20217"><a href="https://ostrovrusa.ru/category/vklady" data-wpel-link="internal">Вклады</a></li> </ul> </li> <li id="menu-item-13852" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13852 submenu"><a href="https://ostrovrusa.ru/category/dohody" data-wpel-link="internal">Доходы</a> <ul class="sub-menu"> <li id="menu-item-13853" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13853"><a href="https://ostrovrusa.ru/category/dohody/lica" data-wpel-link="internal">Доходы знаменитостей</a></li> <li id="menu-item-16859" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16859"><a href="https://ostrovrusa.ru/category/dohody/professii" data-wpel-link="internal">Доходы по профессиям</a></li> <li id="menu-item-19351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19351"><a href="https://ostrovrusa.ru/category/dohody/regiony" data-wpel-link="internal">Доходы по регионам</a></li> </ul> </li> <li id="menu-item-13854" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13854"><a href="https://ostrovrusa.ru/category/ekonomiya" data-wpel-link="internal">Экономим разумно</a></li> <li id="menu-item-20220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20220 submenu"><a>Самые&#8230;</a> <ul class="sub-menu"> <li id="menu-item-20221" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20221"><a href="https://ostrovrusa.ru/category/dorogie" data-wpel-link="internal">Самые дорогие</a></li> <li id="menu-item-20222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20222"><a href="https://ostrovrusa.ru/category/bogatye" data-wpel-link="internal">Самые богатые</a></li> </ul> </li> </ul> <span class="menu_btn">Меню</span> </div> </div> </div> <center><div class="rl_cnt_bg" data-id="328151"></div></center> <div class="fixed"> <div id="content_box" class="has_sidebar"> <div id="content"> <div class="breadcrumbs"><a href="https://ostrovrusa.ru" class="home" data-wpel-link="internal">Главная</a><span class="last">Страница не найдена</span></div> <div class="content"> <h1>Страница не найдена</h1> <p>Извините, но по данному адресу записи не обнаружены</p> </div> </div> <div id="sidebar"> <div class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div id="cnt_rb_124255" class="cnt32_rl_bg_str" data-id="124255"></div></div></div><div class="widget widget_ratings-widget"><div class="widget_title">Сейчас смотрят:</div><ul> <div class="onpoaa"> <div class="imgaa"><img width="150" height="150" src="https://ostrovrusa.ru/wp-content/uploads/2025/08/images-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://ostrovrusa.ru/wp-content/uploads/2025/08/images-1-150x150.jpg 150w, https://ostrovrusa.ru/wp-content/uploads/2025/08/images-1.jpg 225w" sizes="(max-width: 150px) 100vw, 150px"/></div> <div class="linte"><a href="https://ostrovrusa.ru/internet-dlya-ofisa-nevidimaya-nit-svyazyvayushhaya-idei" data-wpel-link="internal">Интернет для офиса: невидимая нить, связывающая идеи</a></div> <div class="linrat"> <img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="3 оценки, среднее: 3,00 из 5" title="3 оценки, среднее: 3,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="3 оценки, среднее: 3,00 из 5" title="3 оценки, среднее: 3,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="3 оценки, среднее: 3,00 из 5" title="3 оценки, среднее: 3,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="3 оценки, среднее: 3,00 из 5" title="3 оценки, среднее: 3,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="3 оценки, среднее: 3,00 из 5" title="3 оценки, среднее: 3,00 из 5" class="post-ratings-image"/> </div> </div> <div class="onpoaa"> <div class="imgaa"><img width="150" height="150" src="https://ostrovrusa.ru/wp-content/uploads/2025/01/10976797-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"/></div> <div class="linte"><a href="https://ostrovrusa.ru/zajmy-na-kartu-udobstvo-i-dostupnost-finansovyx-reshenij" data-wpel-link="internal">Займы на карту: удобство и доступность финансовых решений</a></div> <div class="linrat"> <img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="5 оценок, среднее: 1,60 из 5" title="5 оценок, среднее: 1,60 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_half.gif" alt="5 оценок, среднее: 1,60 из 5" title="5 оценок, среднее: 1,60 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="5 оценок, среднее: 1,60 из 5" title="5 оценок, среднее: 1,60 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="5 оценок, среднее: 1,60 из 5" title="5 оценок, среднее: 1,60 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="5 оценок, среднее: 1,60 из 5" title="5 оценок, среднее: 1,60 из 5" class="post-ratings-image"/> </div> </div> <div class="onpoaa"> <div class="imgaa"><img width="150" height="150" src="https://ostrovrusa.ru/wp-content/uploads/2021/10/blobid1634659165332-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="хендай завод" decoding="async" loading="lazy"/></div> <div class="linte"><a href="https://ostrovrusa.ru/kupit-xendaj-s-zavoda" data-wpel-link="internal">Все способы купить машину с завода-изготовителя 2026 &mdash; экономно и без посредников</a></div> <div class="linrat"> <img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="2 оценки, среднее: 3,00 из 5" title="2 оценки, среднее: 3,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="2 оценки, среднее: 3,00 из 5" title="2 оценки, среднее: 3,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="2 оценки, среднее: 3,00 из 5" title="2 оценки, среднее: 3,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="2 оценки, среднее: 3,00 из 5" title="2 оценки, среднее: 3,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_off.gif" alt="2 оценки, среднее: 3,00 из 5" title="2 оценки, среднее: 3,00 из 5" class="post-ratings-image"/> </div> </div> <div class="onpoaa"> <div class="imgaa"></div> <div class="linte"><a href="https://ostrovrusa.ru/shvejnaya-furnitura-i-tkani-ot-proizvoditelya" data-wpel-link="internal">Швейная фурнитура и ткани от производителя</a></div> <div class="linrat"> <img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="1 оценка, среднее: 5,00 из 5" title="1 оценка, среднее: 5,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="1 оценка, среднее: 5,00 из 5" title="1 оценка, среднее: 5,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="1 оценка, среднее: 5,00 из 5" title="1 оценка, среднее: 5,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="1 оценка, среднее: 5,00 из 5" title="1 оценка, среднее: 5,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="1 оценка, среднее: 5,00 из 5" title="1 оценка, среднее: 5,00 из 5" class="post-ratings-image"/> </div> </div> <div class="onpoaa"> <div class="imgaa"><img width="150" height="150" src="https://ostrovrusa.ru/wp-content/uploads/2019/06/153-seyf-dver-metall-zamok-1-800x650-18-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="топ-10 самых богатых женщин планеты моложе 30 лет" decoding="async" loading="lazy"/></div> <div class="linte"><a href="https://ostrovrusa.ru/top-10-samyh-bogatyh-zhenshhin-v-mire-do-30-let" data-wpel-link="internal">Молодо-зелено: топ-10 самых богатых женщин планеты моложе 30 лет</a></div> <div class="linrat"> <img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="1 оценка, среднее: 5,00 из 5" title="1 оценка, среднее: 5,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="1 оценка, среднее: 5,00 из 5" title="1 оценка, среднее: 5,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="1 оценка, среднее: 5,00 из 5" title="1 оценка, среднее: 5,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="1 оценка, среднее: 5,00 из 5" title="1 оценка, среднее: 5,00 из 5" class="post-ratings-image"/><img src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="1 оценка, среднее: 5,00 из 5" title="1 оценка, среднее: 5,00 из 5" class="post-ratings-image"/> </div> </div> </ul> </div><div class="widget widget_twisted_widget_posts"><div class="widget_title">Популярное на сайте</div> <div class="post_mini"> <div class="block_l"><a href="https://ostrovrusa.ru/samyj-desevyj-domasnij-internet" class="thumb" data-wpel-link="internal"><img width="142" height="90" src="https://ostrovrusa.ru/wp-content/uploads/2019/02/rostelekom08062017p-142x90.jpg" class="attachment-featured size-featured wp-post-image" alt="Семья" decoding="async" loading="lazy"/></a></div> <div class="block_2"> <a href="https://ostrovrusa.ru/category/ekonomiya" class="category" data-wpel-link="internal">Как экономить</a> <a href="https://ostrovrusa.ru/samyj-desevyj-domasnij-internet" class="title" data-wpel-link="internal">Критерии выбора провайдера с самым дешевым домашним интернетом</a> </div> </div> </div> </div> </div> </div> </div> <div class="rl_cnt_bg" data-id="328152"></div> <div id="footer"> <div class="fixed"> <div class="footer_inner"> <div class="logo_block"> <a href="https://ostrovrusa.ru" class="logo" data-wpel-link="internal"><span class="logoheader">ostrov<span class="logoheader-2">rusa</span></span><span class="ru-logo">ru</span></a> <div class="copyright"> <p>© 2026 – ostrovrusa.ru</p> <p>Копирование материалов сайта разрешено только с указанием ссылки на источник</p> </div> </div> <div class="footer_menu"><ul id="menu-nizhnee-menyu" ><li id="menu-item-13575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13575"><a href="https://ostrovrusa.ru/o-sajte" data-wpel-link="internal">О сайте</a></li> <li id="menu-item-13542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13542"><a href="https://ostrovrusa.ru/kontakty" data-wpel-link="internal">Контакты</a></li> <li id="menu-item-20839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20839"><a href="https://ostrovrusa.ru/karta-sajta" data-wpel-link="internal">Карта сайта</a></li> <li id="menu-item-21083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21083"><a href="https://ostrovrusa.ru/ekspert" data-wpel-link="internal">Редакция</a></li> </ul></div> <div class="agreement"> <div class="text"> <p>Вся информация, представленная на сайте, носит ознакомительный характер.</p> <p>За действия компаний, представленных на сайте, администрация не отвечает и ответственности не несет.</p> </div> <div class="links"> <a href=" https://ostrovrusa.ru/pravila-sajta" data-wpel-link="internal">Пользовательское соглашение</a> <a href=" https://ostrovrusa.ru/pravila-sajta" data-wpel-link="internal">Политика обработки персональных данных</a> </div> </div> </div> </div> </div> </div> <span class="page_up">Наверх</span> <!-- всплывающий блок в подвале на мобильной версии--> <div id="adbottom1"></div> <script>var pseudo_links = document.querySelectorAll(".pseudo-clearfy-link");for (var i=0;i<pseudo_links.length;i++ ) { pseudo_links[i].addEventListener("click", function(e){   window.open( e.target.getAttribute("data-uri") ); }); }</script><script>function disable_keystrokes(e) {if (e.ctrlKey || e.metaKey){var key;if(window.event)key = window.event.keyCode;else key = e.which;if (key == 67 || key == 88 || key == 65 || key == 85 || key == 83)return false;else return true;}}document.onkeydown = disable_keystrokes;</script><script>document.addEventListener("copy", (event) => {var pagelink = "\nИсточник: https://ostrovrusa.ru/ytm.js";event.clipboardData.setData("text", document.getSelection() + pagelink);event.preventDefault();});</script><script>
+if (typeof rb_ajaxurl==='undefined') {var rb_ajaxurl = 'https://ostrovrusa.ru/wp-admin/admin-ajax.php';}
+if (typeof rb_csrf==='undefined') {var rb_csrf = '6a457dcd99';}
+if (typeof gather_content==='undefined') {var gather_content = true;}
+window.RFWP_BlockInserting = class {
+    _blockSettingArray;
+
+    static endedSc = false;
+    static endedCc = false;
+
+    constructor(blockSettingArray) {
+        this._blockSettingArray = blockSettingArray;
+    }
+
+    static launch(blockSettingArray) {
+        var $this = this;
+        if (window.jsInputerLaunch !== undefined && [15, 10].includes(window.jsInputerLaunch)) {
+            var item = new RFWP_BlockInserting(blockSettingArray);
+            item.insert();
+            if (!this.endedSc) {
+                item.shortcodesInsert();
+            }
+            if (!this.endedCc) {
+                /* clearUnsuitableCache(0); */
+            }
+            /* blocksReposition();
+            cachePlacing();
+            symbolMarkersPlaced(); */
+        } else {
+            setTimeout(function () {
+                $this.launch(blockSettingArray);
+            }, 50);
+        }
+    }
+
+    insert() {
+        let repeatInsert = false;
+        let index, parent_with_content, usedBlockSettingArrayIds, lordOfElements, contentLength, rejectedBlocks,
+            containerFor6th, containerFor7th, countHeaders, blockSetting, currentElement, currentElementArray, elPlace;
+
+        document.querySelectorAll(".content_pointer_class").forEach((content_pointer) => {
+            parent_with_content = content_pointer.parentElement;
+            usedBlockSettingArrayIds = (content_pointer.getAttribute('data-block-ids') || "").split(',');
+            lordOfElements = parent_with_content;
+            parent_with_content = parent_with_content.parentElement;
+            contentLength = content_pointer.getAttribute('data-content-length');
+            rejectedBlocks = content_pointer.getAttribute('data-rejected-blocks');
+            if (rejectedBlocks&&rejectedBlocks.length > 0) {
+                rejectedBlocks = rejectedBlocks.split(',');
+            }
+            containerFor6th = [];
+            containerFor7th = [];
+
+            countHeaders = parent_with_content.querySelectorAll('h1, h2, h3, h4, h5, h6').length;
+
+            while((index = usedBlockSettingArrayIds.findIndex((el) => el === "")) >= 0) {
+                usedBlockSettingArrayIds.splice(index, 1);
+            }
+
+            if (contentLength < 1) {
+                contentLength = parent_with_content.innerText.length
+            }
+
+            for (var i = 0; i < this._blockSettingArray.length; i++) {
+                blockSetting = this._blockSettingArray[i];
+                currentElement = null;
+                currentElementArray = [];
+
+                try {
+                    const binderName = blockSetting["rb_under"];
+
+                    if (!blockSetting["text"] ||
+                        (blockSetting["text"] && blockSetting["text"].length < 1)
+                    ) {
+                        this._blockSettingArray.splice(i--, 1);
+                        continue;
+                    }
+
+                    if (rejectedBlocks&&rejectedBlocks.includes(blockSetting["id"]) ||
+                        (blockSetting["maxHeaders"] > 0 && blockSetting["maxHeaders"] < parseInt(countHeaders)) ||
+                        (blockSetting["maxSymbols"] > 0 && blockSetting["maxSymbols"] < parseInt(contentLength)) ||
+                        (content_pointer.classList.contains("hard-content") && blockSetting["setting_type"] !== 3)
+                    ) {
+                        continue;
+                    }
+
+                    const elementToAdd = this.createBlockElement(blockSetting),
+                        block_number = elementToAdd.children[0].attributes['data-id'].value;
+
+                    if (usedBlockSettingArrayIds.length > 0 && usedBlockSettingArrayIds.includes(block_number)) {
+                        continue;
+                    }
+
+                    if ((blockSetting["minHeaders"] > 0)&&(blockSetting["minHeaders"] > countHeaders)) {continue;}
+                    if (blockSetting["minSymbols"] > contentLength) {continue;}
+
+                    if (blockSetting["setting_type"] == 1) {
+                        currentElementArray = this.currentElementsGather(blockSetting["element"].toLowerCase(), parent_with_content);
+                        if (!!currentElementArray && currentElementArray.length > 0) {
+                            if (blockSetting["elementPlace"] < 0) {
+                                elPlace = currentElementArray.length + blockSetting["elementPlace"];
+                                if (elPlace >= 0 && elPlace < currentElementArray.length) {
+                                    currentElement = this.currentElementReceiver(true, content_pointer, blockSetting, currentElementArray, elPlace);
+                                }
+                            } else {
+                                elPlace = blockSetting["elementPlace"] - 1;
+                                if (elPlace < currentElementArray.length) {
+                                    currentElement = this.currentElementReceiver(false, content_pointer, blockSetting, currentElementArray, elPlace);
+                                }
+                            }
+                        }
+                        if (!currentElement && blockSetting["showNoElement"]) {
+                            currentElement = currentElementArray[currentElementArray.length - 1];
+                        }
+                        if (!!currentElement) {
+                            this.addBlockAd(blockSetting, currentElement, elementToAdd);
+                            usedBlockSettingArrayIds.push(block_number);
+                        } else {
+                            repeatInsert = true;
+                        }
+                    }
+                    else if (blockSetting["setting_type"] == 2) {
+                        if (blockDuplicate == 'no') {
+                            blockSetting["elementCount"] = 1;
+                        }
+                        var curFirstPlace = blockSetting["firstPlace"],
+                            curElementCount = blockSetting["elementCount"],
+                            curElementStep = blockSetting["elementStep"],
+                            repeatableBlockIdentifier = 0,
+                            successAdd = false;
+
+                        currentElementArray = this.currentElementsGather(blockSetting["element"].toLowerCase(), parent_with_content);
+                        if (currentElementArray) {
+                            for (let i1 = 0; i1 < blockSetting["elementCount"]; i1++) {
+                                elementToAdd.classList.add("repeatable-mark-" + repeatableBlockIdentifier);
+
+                                elPlace = Math.round(parseInt(blockSetting["firstPlace"]) + (i1*parseInt(blockSetting["elementStep"])) - 1);
+                                if (elPlace < currentElementArray.length) {
+                                    currentElement = this.currentElementReceiver(false, content_pointer, blockSetting, currentElementArray, elPlace);
+                                }
+                                if (!currentElement && blockSetting["showNoElement"] && !i1) {
+                                    currentElement = currentElementArray[currentElementArray.length - 1];
+                                }
+
+                                if (currentElement !== undefined && currentElement != null) {
+                                    this.addBlockAd(blockSetting, currentElement, elementToAdd);
+                                    curFirstPlace = elPlace + parseInt(blockSetting["elementStep"]) + 1;
+                                    curElementCount--;
+                                    successAdd = true;
+                                } else {
+                                    successAdd = false;
+                                    break;
+                                }
+                            }
+                        }
+                        if (successAdd === true) {
+                            usedBlockSettingArrayIds.push(block_number);
+                            repeatableBlockIdentifier++;
+                        } else {
+                            if (!blockSetting["unsuccess"]) {
+                                blockSetting["unsuccess"] = 1;
+                            } else {
+                                blockSetting["unsuccess"] = Math.round(blockSetting["unsuccess"] + 1);
+                            }
+                            if (blockSetting["unsuccess"] > 10) {
+                                usedBlockSettingArrayIds.push(block_number);
+                            } else {
+                                blockSetting["firstPlace"] = curFirstPlace;
+                                blockSetting["elementCount"] = curElementCount;
+                                blockSetting["elementStep"] = curElementStep;
+                                repeatInsert = true;
+                            }
+                        }
+                    }
+                    else if (blockSetting["setting_type"] == 3) {
+                        currentElement = this.getElementBySelection(blockSetting["directElement"].trim(), blockSetting)
+
+                        if (!!currentElement) {
+                            this.addBlockAd(blockSetting, currentElement, elementToAdd);
+                            usedBlockSettingArrayIds.push(block_number);
+                            this._blockSettingArray.splice(i--, 1);
+                        } else {
+                            repeatInsert = true;
+                        }
+                    }
+                    else if (blockSetting["setting_type"] == 4) {
+                        content_pointer.parentElement.append(elementToAdd);
+                        usedBlockSettingArrayIds.push(block_number);
+                    }
+                    else if (blockSetting["setting_type"] == 5) {
+                        currentElementArray = this.currentElementsGather('p', content_pointer.parentElement, 1);
+                        if (currentElementArray && currentElementArray.length > 0) {
+                            let pCount = currentElementArray.length;
+                            let elementNumber = Math.round(pCount/2);
+                            if (pCount > 1) {
+                                currentElement = currentElementArray[elementNumber+1];
+                            }
+                            if (!!currentElement) {
+                                if (pCount > 1) {
+                                    this.addBlockAd(blockSetting, currentElement, elementToAdd, currentElement);
+                                } else {
+                                    this.addBlockAd(blockSetting, currentElement, elementToAdd, currentElement.nextSibling);
+                                }
+                                usedBlockSettingArrayIds.push(block_number);
+                            } else {
+                                repeatInsert = true;
+                            }
+                        } else {
+                            repeatInsert = true;
+                        }
+                    }
+                    else if (blockSetting["setting_type"] == 6) {
+                        if (containerFor6th.length > 0) {
+                            for (let j = 0; j < containerFor6th.length; j++) {
+                                if (containerFor6th[j]["elementPlace"]>blockSetting["elementPlace"]) {
+                                    /* continue; */
+                                    if (j === containerFor6th.length-1) {
+                                        containerFor6th.push(blockSetting);
+                                        usedBlockSettingArrayIds.push(block_number);
+                                        break;
+                                    }
+                                } else {
+                                    containerFor6th.splice(j, 0, blockSetting)
+                                    usedBlockSettingArrayIds.push(block_number);
+                                    break;
+                                }
+                            }
+                        } else {
+                            containerFor6th.push(blockSetting);
+                            usedBlockSettingArrayIds.push(block_number);
+                        }
+                        /* vidpravutu v vidstiinuk dlya 6ho tipa */
+                    }
+                    else if (blockSetting["setting_type"] == 7) {
+                        if (containerFor7th.length > 0) {
+                            for (let j = 0; j < containerFor7th.length; j++) {
+                                if (containerFor7th[j]["elementPlace"]>blockSetting["elementPlace"]) {
+                                    /* continue; */
+                                    if (j == containerFor7th.length-1) {
+                                        containerFor7th.push(blockSetting);
+                                        usedBlockSettingArrayIds.push(block_number);
+                                        break;
+                                    }
+                                } else {
+                                    containerFor7th.splice(j, 0, blockSetting)
+                                    usedBlockSettingArrayIds.push(block_number);
+                                    break;
+                                }
+                            }
+                        } else {
+                            containerFor7th.push(blockSetting);
+                            usedBlockSettingArrayIds.push(block_number);
+                        }
+                    }
+                } catch (e) {
+                    console.log(e.message);
+                }
+            }
+
+            var array = this.textLengthGatherer(lordOfElements),
+                tlArray = array.array,
+                length = array.length;
+
+            if (containerFor6th.length > 0) {
+                this.percentInserter(lordOfElements, containerFor6th, tlArray, length);
+            }
+            if (containerFor7th.length > 0) {
+                this.symbolInserter(lordOfElements, containerFor7th, tlArray);
+            }
+            this.shortcodesInsert();
+            content_pointer.setAttribute("data-block-ids", usedBlockSettingArrayIds.join(","))
+        });
+
+        let stopper = 0,
+            $this = this;
+
+        window.addEventListener('load', function () {
+            if (repeatInsert === true) {
+                setTimeout(function () {
+                    $this.insert();
+                }, 100);
+            }
+        });
+    }
+
+    createBlockElement(blockSetting) {
+        let element = document.createElement("div");
+
+        element.classList.add("percentPointerClass");
+        element.classList.add("marked");
+        if (blockSetting["sc"] === 1) {
+            element.classList.add("scMark");
+        }
+        element.innerHTML = blockSetting["text"];
+        element.dataset.rbinder = blockSetting["rb_under"];
+
+        const block_number = element.children[0].attributes['data-id'].value,
+            elementToAddStyle = this.createStyleElement(block_number, blockSetting["elementCss"]);
+
+        if (elementToAddStyle&&elementToAddStyle!=='default') {
+            element.style.textAlign = elementToAddStyle;
+        }
+
+        return element
+    }
+
+    addBlockAd(blockSetting, currentElement, elementToAdd, position = null) {
+        if (!position) {
+            position = this.initTargetToInsert(blockSetting["elementPosition"], 'element', currentElement);
+        }
+        currentElement.parentNode.insertBefore(elementToAdd, position);
+        currentElement.classList.add('rbinder-'+blockSetting["rb_under"]);
+        elementToAdd.classList.remove('coveredAd');
+    }
+
+    getElementBySelection(directElement, blockSetting) {
+        if (directElement.search('#') > -1) {
+            return document.querySelector(directElement);
+        }
+        if ((directElement.search('#') < 0)&&(directElement.search('.') > -1)) {
+            return this.directClassElementDetecting(directElement, blockSetting);
+        }
+    }
+
+    directClassElementDetecting(directElement, blockSetting) {
+        let findQuery = false;
+        let currentElementArray = document.querySelectorAll(directElement);
+        let currentElement = null;
+
+        if (currentElementArray.length > 0) {
+            if (blockSetting['elementPlace'] > 1) {
+                if (currentElementArray.length >= blockSetting['elementPlace']) {
+                    currentElement = currentElementArray[blockSetting['elementPlace']-1];
+                } else if (currentElementArray.length < blockSetting['elementPlace']) {
+                    if (blockSetting['showNoElement'] > 0) {
+                        currentElement = currentElementArray[currentElementArray.length - 1];
+                    }
+                } else {
+                    findQuery = true;
+                }
+            } else if (blockSetting['elementPlace'] < 0) {
+                if ((currentElementArray.length + blockSetting['elementPlace'] + 1) > 0) {
+                    currentElement = currentElementArray[currentElementArray.length + blockSetting['elementPlace']];
+                } else {
+                    findQuery = true;
+                }
+            } else {
+                findQuery = true;
+            }
+        } else {
+            findQuery = true;
+        }
+
+        if (findQuery) {
+            currentElement = document.querySelector(directElement);
+        }
+
+        return currentElement;
+    }
+
+    placingArrayToH1(usedElement, elementTagToFind) {
+        let elements = usedElement.querySelectorAll(elementTagToFind);
+
+        if (elements.length < 1) {
+            if (usedElement.parentElement) {
+                elements = this.placingArrayToH1(usedElement.parentElement, elementTagToFind);
+            }
+        }
+        return elements;
+    }
+
+    elementsCleaning(excArr, elList, pwcLocal, gatherString) {
+        let markedClass = 'rb_m_inc';
+        let markedClassBad = 'rb_m_exc';
+        let cou = 0;
+        let cou1 = 0;
+        let finalArr = [];
+        let finalArrClear = [];
+        let checkNearest;
+        let outOfRangeCheck;
+        let gatherRejected;
+        let allower;
+
+        try {
+            while (elList[cou]) {
+                allower = true;
+                if (!elList[cou].classList.contains(markedClassBad)) {
+                    if (excArr&&excArr.length > 0) {
+                        cou1 = 0;
+                        while (excArr[cou1]) {
+                            checkNearest = elList[cou].parentElement.closest(excArr[cou1]);
+                            if (checkNearest) {
+                                checkNearest.classList.add('currClosest');
+                                outOfRangeCheck = pwcLocal.querySelector('.currClosest');
+                                if (outOfRangeCheck) {
+                                    allower = false;
+                                    checkNearest.classList.add(markedClass);
+                                    gatherRejected = checkNearest.querySelectorAll(gatherString);
+                                    if (gatherRejected.length > 0) {
+                                        for (let i1 = 0; i1 < gatherRejected.length; i1++) {
+                                            gatherRejected[i1].classList.add(markedClassBad);
+                                        }
+                                    }
+                                }
+                                checkNearest.classList.remove('currClosest');
+                            }
+                            cou1++;
+                        }
+                    }
+                    if (allower===true) {
+                        elList[cou].classList.add(markedClass);
+                        /* finalArr.push(elList[cou]); */
+                    }
+                }
+                cou++;
+            }
+            finalArr = pwcLocal.querySelectorAll('.'+markedClass+':not('+markedClassBad+')');
+            finalArrClear = pwcLocal.querySelectorAll('.'+markedClass+',.'+markedClassBad);
+            if (finalArrClear&&finalArrClear.length > 0) {
+                for (let i1 = 0; i1 < finalArrClear.length; i1++) {
+                    finalArrClear[i1].classList.remove(markedClass,markedClassBad);
+                }
+            }
+        } catch (er) {
+            console.log(er.message);
+        }
+        return finalArr;
+    }
+
+    currentElementsGather(usedElement, localPwc, loopLimit = 2, ) {
+        let curElementSearchRepeater = true;
+        let curElementSearchCounter = 0;
+        let currentElementArray = null;
+        let ExcludedString = '';
+        let tagListString = '';
+        let tagListStringExc = '';
+        let cou = 0;
+        let tagList;
+        /* let excArr = excIdClUnpacker(); */
+        let tagListCou = 0;
+
+        if (usedElement==='h1') {
+            currentElementArray = this.placingArrayToH1(localPwc, usedElement);
+        } else {
+            if (usedElement==='h2-4')
+                tagList = ['h2','h3','h3'];
+            else
+                tagList = [usedElement];
+
+            while (tagList[tagListCou]) {
+                tagListString += ((cou++ > 0) ? ',' : '') + tagList[tagListCou];
+                tagListStringExc += ':not(' + tagList[tagListCou] + ')';
+                tagListCou++;
+            }
+
+            ExcludedString = '';
+            if (excIdClass&&excIdClass.length > 0) {
+                for (let i2 = 0; i2 < excIdClass.length; i2++) {
+                    if (excIdClass[i2].length > 0) {
+                        ExcludedString += (i2>0?',':'')+excIdClass[i2]+tagListStringExc;
+                    }
+                }
+            }
+            let detailedQueryString = tagListString+','+ExcludedString;
+
+            /* console.log(detailedQueryString); */
+            while (curElementSearchRepeater&&curElementSearchCounter < loopLimit) {
+                try {
+                    currentElementArray = localPwc.querySelectorAll(tagListString);
+                } catch (e1) {console.log(e1.message);}
+                if (!currentElementArray || !currentElementArray.length) {
+                    if (localPwc.parentElement) {
+                        localPwc = localPwc.parentElement;
+                    } else {
+                        break;
+                    }
+                } else {
+                    currentElementArray = this.elementsCleaning(excIdClass, currentElementArray, localPwc, detailedQueryString);
+                    curElementSearchRepeater = false;
+                }
+                curElementSearchCounter++;
+            }
+        }
+        return currentElementArray;
+    }
+
+    currentElementReceiver(revert, content_pointer, blockSetting, currentElementArray, elPlace) {
+        let currentElement = null;
+        let sameElementAfterWidth = false;
+        let testCou = 0;
+        while (currentElementArray[elPlace] && sameElementAfterWidth === false && testCou < 8) {
+            currentElement = currentElementArray[elPlace];
+            try {
+                sameElementAfterWidth = this.checkAdsWidth(content_pointer, blockSetting["elementPosition"], currentElement);
+            } catch (ex) {
+                sameElementAfterWidth = true;
+                console.log(ex.message);
+            }
+            revert? elPlace--: elPlace++;
+            testCou++;
+        }
+
+        return currentElement;
+    }
+
+
+    symbolInserter(lordOfElements, containerFor7th, tlArray) {
+        try {
+            var currentChildrenLength = 0;
+            let previousBreak = 0;
+            let needleLength;
+            let currentSumLength;
+            let elementToAdd;
+            let elementToBind;
+            let binderName;
+
+            if (!lordOfElements.querySelector(".markedSpan1")) {
+                for (let i = 0; i < containerFor7th.length; i++) {
+                    previousBreak = 0;
+                    currentChildrenLength = 0;
+                    currentSumLength = 0;
+                    needleLength = Math.abs(containerFor7th[i]['elementPlace']);
+                    binderName = containerFor7th[i]["rb_under"];
+
+                    elementToAdd = this.createBlockElement(containerFor7th[i]);
+                    if (!elementToAdd) {
+                        continue;
+                    }
+
+                    if (containerFor7th[i]['elementPlace'] < 0) {
+                        for (let j = tlArray.length-1; j > -1; j--) {
+                            currentSumLength = currentSumLength + tlArray[j]['length'];
+                            if (needleLength < currentSumLength) {
+                                elementToBind = tlArray[j]['element'];
+                                elementToBind = this.currentElementReceiverSpec(true, j, tlArray, elementToBind);
+                                this.addBlockAd(containerFor7th[i], elementToBind, elementToAdd, elementToBind);
+                                break;
+                            }
+                        }
+                    } else if (containerFor7th[i]['elementPlace'] == 0) {
+                        elementToBind = tlArray[0]['element'];
+                        this.addBlockAd(containerFor7th[i], elementToBind, elementToAdd, elementToBind);
+                    } else {
+                        for (let j = 0; j < tlArray.length; j++) {
+                            currentSumLength = currentSumLength + tlArray[j]['length'];
+                            if (needleLength < currentSumLength) {
+                                elementToBind = tlArray[j]['element'];
+                                elementToBind = this.currentElementReceiverSpec(false, j, tlArray, elementToBind);
+                                this.addBlockAd(containerFor7th[i], elementToBind, elementToAdd, elementToBind.nextSibling);
+                                break;
+                            }
+                        }
+                    }
+                }
+
+                var spanMarker = document.createElement("span");
+                spanMarker.classList.add("markedSpan1");
+                lordOfElements.prepend(spanMarker);
+            }
+        } catch (e) {
+            console.log(e);
+        }
+    }
+
+    percentInserter(lordOfElements, containerFor6th, tlArray, textLength) {
+        try {
+            var textNeedyLength = 0;
+            let elementToAdd;
+            var elementToBind;
+            let elementToAddStyle;
+            let block_number;
+            var binderName;
+            let $this = this;
+
+            function insertByPercents(textLength) {
+                let localMiddleValue = 0;
+
+                for (let j = 0; j < containerFor6th.length; j++) {
+                    textNeedyLength = Math.round(textLength * (containerFor6th[j]["elementPlace"]/100));
+                    for (let i = 0; i < tlArray.length; i++) {
+                        if (tlArray[i]['lengthSum'] >= textNeedyLength) {
+                            binderName = containerFor6th[j]["rb_under"];
+                            elementToAdd = $this.createBlockElement(containerFor6th[j]);
+                            if (!elementToAdd) {
+                                break;
+                            }
+
+                            localMiddleValue = tlArray[i]['lengthSum'] - Math.round(tlArray[i]['length']/2);
+                            elementToBind = tlArray[i]['element'];
+                            $this.currentElementReceiverSpec(false, i, tlArray, elementToBind);
+                            if (textNeedyLength < localMiddleValue) {
+                                $this.addBlockAd(containerFor6th[j], elementToBind, elementToAdd, elementToBind);
+                            } else {
+                                $this.addBlockAd(containerFor6th[j], elementToBind, elementToAdd, elementToBind.nextSibling);
+                            }
+                            break;
+                        }
+                    }
+                }
+                return false;
+            }
+
+            function clearTlMarks() {
+                let marksForDeleting = document.querySelectorAll('.textLengthMarker');
+
+                if (marksForDeleting.length > 0) {
+                    for (let i = 0; i < marksForDeleting.length; i++) {
+                        marksForDeleting[i].remove();
+                    }
+                }
+            }
+
+            if (!lordOfElements.querySelector(".markedSpan")) {
+                insertByPercents(textLength);
+                clearTlMarks();
+                var spanMarker = document.createElement("span");
+                spanMarker.classList.add("markedSpan");
+                lordOfElements.prepend(spanMarker);
+            }
+        } catch (e) {
+            console.log(e.message);
+        }
+    }
+
+
+    /* "sc" in variables - mark for shortcode variable */
+    shortcodesInsert() {
+        let gatheredBlocks = document.querySelectorAll('.percentPointerClass.scMark'),
+            scBlockId = -1,
+            scAdId = -1,
+            blockStatus = '',
+            dataFull = -1,
+            gatheredBlockChild,
+            okStates = ['done','refresh-wait','no-block','fetched'],
+            scContainer,
+            sci,
+            i1 = 0,
+            skyscraperStatus = false,
+            splitedSkyscraper = [],
+            gatheredBlockChildSkyParts = [],
+            stickyStatus = false,
+            stickyCheck = [],
+            stickyFixedStatus = false,
+            stickyFixedCheck = [],
+            repeatableIdentifier = "",
+            dataCidIdentifier = null,
+            divCidElement = '';
+
+        if (typeof scArray !== 'undefined') {
+            if (scArray&&scArray.length > 0&&gatheredBlocks&&gatheredBlocks.length > 0&&typeof window.rulvW5gntb !== 'undefined') {
+                dataCidIdentifier = window.rulvW5gntb;
+                for (let i = 0; i < gatheredBlocks.length; i++) {
+                    gatheredBlockChild = gatheredBlocks[i].children[0];
+                    if (!gatheredBlockChild) {
+                        continue;
+                    }
+                    scAdId = -3;
+                    blockStatus = null;
+                    scContainer = null;
+                    dataFull = -1;
+                    skyscraperStatus = false;
+                    splitedSkyscraper = [];
+                    gatheredBlockChildSkyParts = [];
+                    stickyStatus = false;
+                    stickyCheck = [];
+                    stickyFixedStatus = false;
+                    stickyFixedCheck = [];
+                    repeatableIdentifier = "";
+                    divCidElement = null;
+
+                    scAdId = gatheredBlockChild.getAttribute('data-aid');
+                    scBlockId = gatheredBlockChild.getAttribute('data-id');
+                    blockStatus = gatheredBlockChild.getAttribute('data-state');
+                    dataFull = gatheredBlockChild.getAttribute('data-full');
+
+                    if (scBlockId&&scAdId > 0) {
+                        sci = -1;
+                        for (i1 = 0; i1 < scArray.length; i1++) {
+                            if (scBlockId == scArray[i1]['blockId']&&scAdId == scArray[i1]['adId']) {
+                                sci = i1;
+                            }
+                        }
+
+                        if (sci > -1) {
+                            if (blockStatus&&okStates.includes(blockStatus)) {
+
+                                if (blockStatus=='no-block') {
+                                    gatheredBlockChild.innerHTML = '';
+                                } else if ((blockStatus=='fetched'&&dataFull==1)||!['no-block','fetched'].includes(blockStatus)) {
+                                    for (let cl1 = 0; cl1 < gatheredBlocks[i].classList.length; cl1++) {
+                                        if (gatheredBlocks[i].classList[cl1].includes("repeatable-mark")) {
+                                            repeatableIdentifier = gatheredBlocks[i].classList[cl1];
+                                        }
+                                    }
+
+                                    if (repeatableIdentifier) {
+                                        divCidElement = document.querySelectorAll(".percentPointerClass.scMark."+repeatableIdentifier+' div[data-cid="'+dataCidIdentifier+'"]');
+                                    } else {
+                                        divCidElement = gatheredBlockChild.querySelectorAll('div[data-cid="'+dataCidIdentifier+'"]');
+                                    }
+
+                                    var text = scArray[sci]['text'];
+                                    if (divCidElement&&divCidElement.length > 0) {
+                                        for (let i2 = 0; i2 < divCidElement.length; i2++) {
+                                            jQuery(divCidElement[i2]).html(text);
+                                        }
+                                    } else {
+                                        jQuery(gatheredBlockChild).html(text);
+                                    }
+                                    this.launchUpdateRbDisplays();
+                                }
+                                if (blockStatus !== 'fetched' || (blockStatus === 'fetched' && dataFull === 1)) {
+                                    gatheredBlocks[i].classList.remove('scMark');
+                                }
+                            }
+                        }
+                    } else if (scBlockId&&scAdId < 1&&['no-block','fetched'].includes(blockStatus)) {
+                        gatheredBlocks[i].classList.remove('scMark');
+                    }
+                }
+            } else if (!scArray||(scArray&&scArray.length < 1)) {
+                this.endedSc = true;
+            }
+        } else {
+            this.endedSc = true;
+        }
+
+        if (!this.endedSc) {
+            var $this = this;
+            setTimeout(function () {
+                $this.shortcodesInsert();
+            }, 200);
+        }
+    }
+
+    currentElementReceiverSpec(revert, curSum, elList, currentElement) {
+        let origCurrentElement = currentElement;
+        let content_pointer = document.querySelector(".content_pointer_class"); /* orig */
+        let sameElementAfterWidth = false;
+        let testCou = 0;
+        while (elList[curSum] && !sameElementAfterWidth && testCou < 5) {
+            currentElement = elList[curSum]['element'];
+            try {
+                sameElementAfterWidth = this.checkAdsWidth(content_pointer, 0, currentElement);
+            } catch (ex) {
+                sameElementAfterWidth = true;
+                console.log(ex.message);
+            }
+            revert? curSum--: curSum++;
+            testCou++;
+        }
+        return currentElement?currentElement:origCurrentElement;
+    }
+
+    launchUpdateRbDisplays() {
+        if ((typeof updateRbDisplays !== 'undefined')&&(typeof updateRbDisplays === 'function')) {
+            updateRbDisplays();
+        } else {
+            setTimeout(function () {
+                this.launchUpdateRbDisplays();
+            }, 200);
+        }
+    }
+
+    checkAdsWidth(content_pointer, posCurrentElement, currentElement) {
+        let widthChecker = document.querySelector('#widthChecker');
+        let widthCheckerStyle = null;
+        let content_pointerStyle = getComputedStyle(content_pointer);
+        let content = content_pointer.parentElement;
+
+        if (!widthChecker) {
+            widthChecker = document.createElement("div");
+            widthChecker.setAttribute('id','widthChecker');
+            widthChecker.style.display = 'flex';
+        }
+
+        if (content) {
+            posCurrentElement = this.initTargetToInsert(posCurrentElement, 'term', currentElement);
+            currentElement.parentNode.insertBefore(widthChecker, posCurrentElement);
+            widthCheckerStyle = getComputedStyle(widthChecker);
+
+            if (parseInt(widthCheckerStyle.width) >= (parseInt(content_pointerStyle.width) - 50)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+
+    initTargetToInsert(position, type, currentElement) {
+        let posCurrentElement;
+        let usedElement;
+        if (type == 'element') {
+            if (position == 0) {
+                posCurrentElement = currentElement;
+                if (!(typeof obligatoryMargin!=='undefined'&&obligatoryMargin===1)) {
+                    currentElement.classList.add('rfwp_removedMarginTop');
+                }
+            } else {
+                posCurrentElement = currentElement.nextSibling;
+                if (!(typeof obligatoryMargin!=='undefined'&&obligatoryMargin===1)) {
+                    currentElement.classList.add('rfwp_removedMarginBottom');
+                }
+            }
+            currentElement.style.clear = 'both';
+        } else {
+            usedElement = currentElement;
+            if (position == 0) {
+                posCurrentElement = usedElement;
+            } else {
+                posCurrentElement = usedElement.nextSibling;
+            }
+        }
+        return posCurrentElement;
+    }
+
+    createStyleElement(blockNumber, localElementCss) {
+        let htmlToAdd = '';
+        let marginString;
+        let textAlignString;
+        let contPois = document.querySelector('.content_pointer_class');
+        let emptyValues = false;
+        let elementToAddStyleLocal;
+
+        if (!contPois.length)
+            return false;
+
+        contPois.forEach((contPoi) => {
+            elementToAddStyleLocal = contPoi.querySelector('.blocks_align_style');
+
+            if (!elementToAddStyleLocal) {
+                elementToAddStyleLocal = document.createElement('style');
+                elementToAddStyleLocal.classList.add('blocks_align_style');
+                contPoi.parentNode.insertBefore(elementToAddStyleLocal, contPoi);
+            }
+        });
+
+
+
+        switch (localElementCss) {
+            case 'left':
+                emptyValues = false;
+                marginString = '0 auto 0 0';
+                textAlignString = 'left';
+                break;
+            case 'right':
+                emptyValues = false;
+                marginString = '0 0 0 auto';
+                textAlignString = 'right';
+                break;
+            case 'center':
+                emptyValues = false;
+                marginString = '0 auto';
+                textAlignString = 'center';
+                break;
+            case 'default':
+                emptyValues = true;
+                marginString = 'default';
+                textAlignString = 'default';
+                break;
+        }
+        if (!emptyValues) {
+            htmlToAdd = '.percentPointerClass  > *[data-id="'+blockNumber+'"] {\n' +
+                '    margin: '+marginString+';\n' +
+                '}\n';
+        }
+
+        elementToAddStyleLocal.innerHTML += htmlToAdd;
+        return textAlignString;
+    }
+
+    clearUnsuitableCache(cuc_cou) {
+        let scAdId = -1;
+        let ccRepeat = false;
+
+        let gatheredBlocks = document.querySelectorAll('.percentPointerClass .' + block_classes.join(', .percentPointerClass .'));
+
+        if (gatheredBlocks&&gatheredBlocks.length > 0) {
+            for (let i = 0; i < gatheredBlocks.length; i++) {
+                if (gatheredBlocks[i]['dataset']['aid']&&gatheredBlocks[i]['dataset']['aid'] < 0) {
+                    if ((gatheredBlocks[i]['dataset']["state"]=='no-block')||(['done','fetched','refresh-wait'].includes(gatheredBlocks[i]['dataset']["state"]))) {
+                        gatheredBlocks[i]['innerHTML'] = '';
+                    } else {
+                        ccRepeat = true;
+                    }
+                } else if (!gatheredBlocks[i]['dataset']['aid']) {
+                    ccRepeat = true;
+                }
+            }
+            if (cuc_cou < 50) {
+                if (ccRepeat) {
+                    let $this = this;
+                    setTimeout(function () {
+                        $this.clearUnsuitableCache(cuc_cou+1);
+                    }, 100);
+                }
+            } else {
+                endedCc = true;
+            }
+        } else {
+            endedCc = true;
+        }
+    }
+
+
+    excIdClUnpacker() {
+        let excArr = [],
+            cou = 0,
+            currExcStr = '',
+            curExcFirst = '';
+        excArr['id'] = [];
+        excArr['class'] = [];
+        excArr['tag'] = [];
+        if (excIdClass&&excIdClass.length > 0) {
+            while (excIdClass[cou]) {
+                currExcStr = excIdClass[cou];
+                if (currExcStr.length > 0) {
+                    curExcFirst = currExcStr.substring(0,1);
+                    switch (curExcFirst) {
+                        case '#':
+                            if (currExcStr.length > 1) {
+                                currExcStr = currExcStr.substring(1);
+                                excArr['id'].push(currExcStr);
+                            }
+                            break;
+                        case '.':
+                            if (currExcStr.length > 1) {
+                                currExcStr = currExcStr.substring(1);
+                                excArr['class'].push(currExcStr);
+                            }
+                            break;
+                        default:
+                            excArr['tag'].push(currExcStr);
+                            break;
+                    }
+                    cou++;
+                }
+            }
+        }
+        return excArr;
+    }
+
+    possibleTagsInCheckConfirmer(possibleTagsArray, possibleTagsInCheck) {
+        if (possibleTagsArray.includes("LI")) {
+            if (possibleTagsArray.includes("UL")) {
+                possibleTagsInCheck.push("UL");
+            }
+            if (possibleTagsArray.includes("OL")) {
+                possibleTagsInCheck.push("OL");
+            }
+        }
+
+        return false;
+    }
+
+    textLengthGatherer(lordOfElementsLoc) {
+        var possibleTagsArray;
+        if (typeof tagsListForTextLength!=="undefined") {
+            possibleTagsArray = tagsListForTextLength;
+        } else {
+            possibleTagsArray = ["P", "H1", "H2", "H3", "H4", "H5", "H6", "DIV", "BLOCKQUOTE", "INDEX", "ARTICLE", "SECTION"];
+        }
+        let possibleTagsInCheck = ["DIV", "INDEX", "SECTION"];
+
+        this.possibleTagsInCheckConfirmer(possibleTagsArray, possibleTagsInCheck);
+        let excArr = this.excIdClUnpacker(),
+            textLength = 0,
+            tlArray = [];
+
+        function textLengthGathererRec(lordOfElementsLoc) {
+            let allowed;
+            let cou1;
+            let classesArray;
+            let countSuccess = 0;
+            try {
+                for (let i = 0; i < lordOfElementsLoc.children.length; i++) {
+                    if (possibleTagsArray.includes(lordOfElementsLoc.children[i].tagName)
+                        &&!lordOfElementsLoc.children[i].classList.contains("percentPointerClass")
+                        &&lordOfElementsLoc.children[i].id!="toc_container"
+                    ) {
+                        if (possibleTagsInCheck.includes(lordOfElementsLoc.children[i].tagName)
+                            &&(lordOfElementsLoc.children[i].children.length > 0)
+                        ) {
+                            allowed = true;
+                            if (lordOfElementsLoc.children[i].id&&excArr['id'].length > 0) {
+                                cou1 = 0;
+                                while (excArr['id'][cou1]) {
+                                    if (lordOfElementsLoc.children[i].id.toLowerCase()==excArr['id'][cou1].toLowerCase()) {
+                                        allowed = false;
+                                        break;
+                                    }
+                                    cou1++;
+                                }
+                            }
+
+                            if (lordOfElementsLoc.children[i].classList.length > 0&&excArr['class'].length > 0) {
+                                cou1 = 0;
+                                while (excArr['class'][cou1]) {
+                                    classesArray = excArr['class'][cou1].split('.');
+                                    if (classesArray.every(className => lordOfElementsLoc.children[i].classList.contains(className))) {
+                                        allowed = false;
+                                        break;
+                                    }
+                                    cou1++;
+                                }
+                            }
+
+                            if (excArr['tag'].length > 0) {
+                                cou1 = 0;
+                                while (excArr['tag'][cou1]) {
+                                    if (lordOfElementsLoc.children[i].tagName.toLowerCase()==excArr['tag'][cou1].toLowerCase()) {
+                                        allowed = false;
+                                        break;
+                                    }
+                                    cou1++;
+                                }
+                            }
+
+                            if (allowed) {
+                                if (textLengthGathererRec(lordOfElementsLoc.children[i], excArr, possibleTagsArray, possibleTagsInCheck)) {
+                                    countSuccess++;
+                                    continue;
+                                }
+                            }
+                        }
+                        textLength = textLength + lordOfElementsLoc.children[i].innerText.length;
+                        tlArray.push({
+                            tag: lordOfElementsLoc.children[i].tagName,
+                            length: lordOfElementsLoc.children[i].innerText.length,
+                            lengthSum: textLength,
+                            element: lordOfElementsLoc.children[i]
+                        });
+                        countSuccess++;
+                    }
+                }
+            } catch (er) {
+                console.log(er.message);
+            }
+            return countSuccess > 0;
+        }
+
+        textLengthGathererRec(lordOfElementsLoc);
+
+        return {array: tlArray, length: textLength};
+    }
+};if (typeof window.jsInputerLaunch==='undefined') {window.jsInputerLaunch = -1;}
+
+function asyncInsertingsInsertingFunction(insertingsArray) {
+    let currentElementForInserting = 0;
+    let currentElementToMove = 0;
+    let positionElement = 0;
+    let position = 0;
+    let insertToAdd = 0;
+    let postId = 0;
+    let repeatSearch = 0;
+    if (insertingsArray&&insertingsArray.length > 0) {
+        for (let i = 0; i < insertingsArray.length; i++) {
+            if (!insertingsArray[i]['used']||(insertingsArray[i]['used']&&insertingsArray[i]['used']==0)) {
+                positionElement = insertingsArray[i]['position_element'];
+                position = insertingsArray[i]['position'];
+                insertToAdd = insertingsArray[i]['content'];
+                postId = insertingsArray[i]['postId'];
+
+                currentElementForInserting = document.querySelector(positionElement);
+
+                currentElementToMove = document.querySelector('.coveredInsertings[data-id="'+postId+'"]');
+                if (currentElementForInserting) {
+                    if (position==0) {
+                        currentElementForInserting.parentNode.insertBefore(currentElementToMove, currentElementForInserting);
+                        currentElementToMove.classList.remove('coveredInsertings');
+                        insertingsArray[i]['used'] = 1;
+                    } else {
+                        currentElementForInserting.parentNode.insertBefore(currentElementToMove, currentElementForInserting.nextSibling);
+                        currentElementToMove.classList.remove('coveredInsertings');
+                        insertingsArray[i]['used'] = 1;
+                    }
+                } else {
+                    repeatSearch = 1;
+                }
+            }
+        }
+    }
+    if (repeatSearch == 1) {
+        setTimeout(function () {
+            asyncInsertingsInsertingFunction(insertingsArray);
+        }, 100)
+    }
+}
+
+function insertingsFunctionLaunch() {
+    if (window.jsInsertingsLaunch !== undefined&&jsInsertingsLaunch == 25) {
+        asyncInsertingsInsertingFunction(insertingsArray);
+    } else {
+        setTimeout(function () {
+            insertingsFunctionLaunch();
+        }, 100)
+    }
+}
+
+function setLongCache() {
+    let xhttp = new XMLHttpRequest();
+    let sendData = 'action=setLongCache&type=longCatching&_csrf='+rb_csrf;
+    xhttp.onreadystatechange = function(redata) {
+        if (this.readyState == 4 && this.status == 200) {
+            console.log('long cache deployed');
+        }
+    };
+    xhttp.open("POST", rb_ajaxurl, true);
+    xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xhttp.send(sendData);
+}
+
+function cachePlacing(alert_type, errorInfo=null) {
+    let adBlocks = document.querySelectorAll('.percentPointerClass .' + block_classes.join(', .percentPointerClass .'));
+    let curAdBlock;
+    let okStates = ['done','refresh-wait','no-block','fetched'];
+    /* let adId = -1; */
+    let blockAid = null;
+    let blockId;
+
+    if (typeof cachedBlocksArray !== 'undefined'&&cachedBlocksArray&&cachedBlocksArray.length > 0&&adBlocks&&adBlocks.length > 0) {
+        for (let i = 0; i < adBlocks.length; i++) {
+            blockAid = adBlocks[i]['dataset']['aid'];
+
+            if (!blockAid) {
+                blockId = adBlocks[i]['dataset']['id'];
+                if (cachedBlocksArray[blockId]) {
+                    jQuery(adBlocks[i]).html(cachedBlocksArray[blockId]);
+                }
+            }
+        }
+    }
+
+    if (alert_type&&alert_type=='high') {
+        setLongCache();
+    }
+}
+
+function saveContentBlock(contentContainer) {
+    try {
+        if (!gather_content) {
+            console.log('content gather save function entered');
+            let xhttp = new XMLHttpRequest();
+            let sendData = 'action=RFWP_saveContentContainer&type=gatherContentBlock&data='+contentContainer+'&_csrf='+rb_csrf;
+            xhttp.onreadystatechange = function(redata) {
+                if (this.readyState == 4 && this.status == 200) {
+                    console.log('content gather succeed');
+                } else {
+                    console.log('content gather gone wrong');
+                }
+            };
+            xhttp.open("POST", rb_ajaxurl, true);
+            xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xhttp.send(sendData);
+        }
+    } catch (er) {
+        console.log('content gather error: '+er+';');
+    }
+}
+
+window.gatherContentBlock = function() {
+    let cPointers = null,
+        cPointer = null,
+        cPointerParent = null,
+        cPointerParentString = null,
+        cPointerParentStringItem = null,
+        classWords = ['content','entry','post','wrap','description','taxonomy'],
+        classChoosed = false;
+
+    cPointers = document.querySelectorAll('.content_pointer_class');
+    if (cPointers.length > 0) {
+        for (let i = 0; i < cPointers.length; i++) {
+            cPointer = cPointers[i];
+
+            cPointerParentStringItem = null;
+            if (window.jsInputerLaunch!==15) {
+                return false;
+            }
+            cPointerParent = cPointer.parentElement;
+            if (cPointerParent) {
+                if (cPointerParent.classList.length > 0) {
+                    cPointerParentStringItem = cPointerParent.tagName.toLowerCase() + '.' + cPointerParent.classList[0];
+                    for (let j = 0; j < classWords.length; j++) {
+                        for (let i = 0; i < cPointerParent.classList.length; i++) {
+                            if (cPointerParent.classList[i].includes(classWords[j])) {
+                                cPointerParentStringItem = cPointerParent.tagName.toLowerCase() + '.'+cPointerParent.classList[i];
+                                classChoosed = true;
+                                break;
+                            }
+                        }
+                        if (classChoosed===true) {
+                            break;
+                        }
+                    }
+
+                    if (classChoosed===true) {
+                        cPointerParentString = cPointerParentStringItem;
+                        break;
+                    }
+                }
+                if (cPointerParentStringItem && (!cPointerParentString || cPointerParentString !== cPointerParentStringItem)) {
+                    cPointerParentString = cPointerParentStringItem;
+                }
+            }
+        }
+
+        if (cPointerParentString) {
+            console.log('content gather content block detected');
+            saveContentBlock(cPointerParentString);
+        }
+    } else {
+        console.log('content gather delayed');
+        setTimeout(function () {
+            gatherContentBlock();
+        }, 500);
+    }
+};
+
+window.removeMarginClass = function(blockObject) {
+    if (blockObject && typeof window.jsInputerLaunch !== 'undefined' && [15, 10].includes(window.jsInputerLaunch)) {
+        let binderName,
+            neededElement,
+            currentDirection,
+            seekerIterationCount,
+            currentSubling;
+
+        binderName = blockObject.dataset.rbinder;
+        if (binderName) {
+            seekerIterationCount = 0;
+            currentDirection = 'before';
+            do {
+                seekerIterationCount++;
+                currentSubling = blockObject.nextElementSibling;
+                if (currentSubling&&currentSubling.classList.contains('rbinder-'+binderName)) {
+                    neededElement = currentSubling;
+                }
+            } while (currentSubling&&!neededElement&&seekerIterationCount < 5);
+
+            if (!neededElement) {
+                seekerIterationCount = 0;
+                currentDirection = 'after';
+                do {
+                    seekerIterationCount++;
+                    currentSubling = blockObject.previousElementSibling;
+                    if (currentSubling&&currentSubling.classList.contains('rbinder-'+binderName)) {
+                        neededElement = currentSubling;
+                    }
+                } while (currentSubling&&!neededElement&&seekerIterationCount < 5);
+            }
+            if (neededElement) {
+                if (currentDirection === 'before') {
+                    neededElement.classList.remove('rfwp_removedMarginTop');
+                } else {
+                    neededElement.classList.remove('rfwp_removedMarginBottom');
+                }
+            }
+        }
+    }
+
+    return false;
+};
+</script> <div class="wprm-wrapper"> <!-- Overlay Starts here --> <div class="wprm-overlay"></div> <!-- Overlay Ends here --> <div id="wprmenu_bar" class="wprmenu_bar bodyslide left"> <div class="hamburger hamburger--3dxy-r"> <span class="hamburger-box"> <span class="hamburger-inner"></span> </span> </div> <div class="menu_title"> <a href="https://ostrovrusa.ru" data-wpel-link="internal"><img class="bar_logo" alt="logo" src="https://ostrovrusa.ru/wp-content/uploads/2019/02/logo_blue.png"/></a> </div> </div> <div class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left default " id="mg-wprm-wrap"> <ul id="wprmenu_menu_ul"> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9478"><a href="https://ostrovrusa.ru/" data-wpel-link="internal">Главная</a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20223 submenu"><a>Всё о заработке</a> <ul class="sub-menu"> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20224"><a href="https://ostrovrusa.ru/category/zarabotok" data-wpel-link="internal">Как заработать</a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20225"><a href="https://ostrovrusa.ru/category/business" data-wpel-link="internal">О бизнесе</a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13856"><a href="https://ostrovrusa.ru/category/samozanyatyye" data-wpel-link="internal">Самозанятые</a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20219"><a href="https://ostrovrusa.ru/category/uvolneniya" data-wpel-link="internal">Всё об увольнениях</a></li> </ul> </li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20218 submenu"><a href="https://ostrovrusa.ru/category/investirovanie" data-wpel-link="internal">Об инвестировании</a> <ul class="sub-menu"> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13857"><a href="https://ostrovrusa.ru/category/finance" data-wpel-link="internal">Фин. прогнозы</a></li> </ul> </li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21125 submenu"><a href="https://ostrovrusa.ru/category/banki" data-wpel-link="internal">Банки</a> <ul class="sub-menu"> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21126"><a href="https://ostrovrusa.ru/category/banki/karty" data-wpel-link="internal">Кредитные карты</a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20217"><a href="https://ostrovrusa.ru/category/vklady" data-wpel-link="internal">Вклады</a></li> </ul> </li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13852 submenu"><a href="https://ostrovrusa.ru/category/dohody" data-wpel-link="internal">Доходы</a> <ul class="sub-menu"> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13853"><a href="https://ostrovrusa.ru/category/dohody/lica" data-wpel-link="internal">Доходы знаменитостей</a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16859"><a href="https://ostrovrusa.ru/category/dohody/professii" data-wpel-link="internal">Доходы по профессиям</a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19351"><a href="https://ostrovrusa.ru/category/dohody/regiony" data-wpel-link="internal">Доходы по регионам</a></li> </ul> </li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13854"><a href="https://ostrovrusa.ru/category/ekonomiya" data-wpel-link="internal">Экономим разумно</a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20220 submenu"><a>Самые&#8230;</a> <ul class="sub-menu"> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20221"><a href="https://ostrovrusa.ru/category/dorogie" data-wpel-link="internal">Самые дорогие</a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20222"><a href="https://ostrovrusa.ru/category/bogatye" data-wpel-link="internal">Самые богатые</a></li> </ul> </li> <li> <div class="wpr_search search_top"> <form role="search" method="get" class="wpr-search-form" action="https://ostrovrusa.ru/"> <label for="search-form-6969154688075"></label> <input type="search" class="wpr-search-field" placeholder="Поиск" value="" name="s" title="Поиск"> <button type="submit" class="wpr_submit"> <i class="wpr-icon-search"></i> </button> </form> </div> </li> </ul> </div> </div> <script type="text/javascript" src="https://ostrovrusa.ru/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js" id="wp-polyfill-inert-js"></script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-includes/js/dist/vendor/regenerator-runtime.min.js" id="regenerator-runtime-js"></script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js" id="wp-polyfill-js"></script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script> <script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/contact-form-7/includes/swv/js/index.js" id="swv-js"></script> <script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/ostrovrusa.ru\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/contact-form-7/includes/js/index.js" id="contact-form-7-js"></script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/vote2x/vote2x.js" id="script-vote2x-js"></script> <script type="text/javascript" id="wp-polls-js-extra">
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/ostrovrusa.ru\/wp-admin\/admin-ajax.php","text_wait":"\u0412\u0430\u0448 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0437\u0430\u043f\u0440\u043e\u0441 \u0435\u0449\u0435 \u043e\u0431\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442\u0441\u044f. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u043f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435 ...","text_valid":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u043e \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043e\u0442\u0432\u0435\u0442.","text_multiple":"\u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432:","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/wp-polls/polls-js.js" id="wp-polls-js"></script> <script type="text/javascript" id="wp-postratings-js-extra">
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"https:\/\/ostrovrusa.ru\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/ostrovrusa.ru\/wp-admin\/admin-ajax.php","text_wait":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043d\u0435 \u0433\u043e\u043b\u043e\u0441\u0443\u0439\u0442\u0435 \u0437\u0430 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0437\u0430\u043f\u0438\u0441\u0435\u0439 \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e.","image":"stars","image_ext":"gif","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/images/stars/rating_over.gif";;
+/* ]]> */
+</script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/wp-postratings/js/postratings-js.js" id="wp-postratings-js"></script> <script type="text/javascript" id="expert-review-scripts-js-extra">
+/* <![CDATA[ */
+var expert_review_ajax = {"url":"https:\/\/ostrovrusa.ru\/wp-admin\/admin-ajax.php","nonce":"4c149d1035","comment_to_scroll_selector":"","ask_question_link_new_tab":"","i18n":{"question_popup_name":"\u0418\u043c\u044f","question_popup_email":"Email","question_popup_phone":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d","question_popup_question":"\u0412\u043e\u043f\u0440\u043e\u0441","question_popup_submit":"\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c","question_popup_cancel":"\u041e\u0442\u043c\u0435\u043d\u0430","question_submitted":"\u0412\u043e\u043f\u0440\u043e\u0441 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d","legacy_form":"\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u043e\u0431\u043d\u043e\u0432\u0438\u0442\u044c \u043a\u043e\u0434 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0439 \u0444\u043e\u0440\u043c\u044b","field_cannot_be_empty":"\u041f\u043e\u043b\u0435 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043f\u0443\u0441\u0442\u044b\u043c","field_must_be_checked":"\u041f\u043e\u043b\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u043e\u0442\u043c\u0435\u0447\u0435\u043d\u043e","consent":"\u0421\u043e\u0433\u043b\u0430\u0441\u0438\u0435 \u043d\u0430 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0443 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445"},"consent":""};
+/* ]]> */
+</script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/expert-review/assets/public/js/scripts.min.js" id="expert-review-scripts-js"></script> <script type="text/javascript" id="template-js-extra">
+/* <![CDATA[ */
+var template = {"ajaxurl":"https:\/\/ostrovrusa.ru\/wp-admin\/admin-ajax.php","nonce":"178175b886"};
+/* ]]> */
+</script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/themes/invest_fon/assets/scripts/theme.js" id="template-js"></script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/easy-fancybox/vendor/purify.min.js" id="fancybox-purify-js"></script> <script type="text/javascript" id="jquery-fancybox-js-extra">
+/* <![CDATA[ */
+var efb_i18n = {"close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","next":"\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439","prev":"\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439","startSlideshow":"\u0417\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u0441\u043b\u0430\u0439\u0434-\u0448\u043e\u0443","toggleSize":"\u0420\u0430\u0437\u043c\u0435\u0440 \u0442\u0443\u043c\u0431\u043b\u0435\u0440\u0430"};
+/* ]]> */
+</script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.js" id="jquery-fancybox-js"></script> <script type="text/javascript" id="jquery-fancybox-js-after">
+/* <![CDATA[ */
+var fb_timeout, fb_opts={'autoScale':true,'showCloseButton':true,'width':560,'height':340,'margin':20,'pixelRatio':'false','padding':10,'centerOnScroll':false,'enableEscapeButton':true,'speedIn':300,'speedOut':300,'overlayShow':true,'hideOnOverlayClick':true,'overlayColor':'#000','overlayOpacity':0.6,'minViewportWidth':320,'minVpHeight':320,'disableCoreLightbox':'true','enableBlockControls':'true','fancybox_openBlockControls':'true' };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery([".nolightbox","a.wp-block-file__button","a.pin-it-button","a[href*='pinterest.com\/pin\/create']","a[href*='facebook.com\/share']","a[href*='twitter.com\/share']"].join(',')).addClass('nofancybox');
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+/* IMG */
+						var unlinkedImageBlocks=jQuery(".wp-block-image > img:not(.nofancybox,figure.nofancybox>img)");
+						unlinkedImageBlocks.wrap(function() {
+							var href = jQuery( this ).attr( "src" );
+							return "<a href='" + href + "'></a>";
+						});
+var fb_IMG_select=jQuery('a[href*=".jpg" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".jpg" i]:not(.nofancybox),a[href*=".png" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".png" i]:not(.nofancybox),a[href*=".webp" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".webp" i]:not(.nofancybox),a[href*=".jpeg" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".jpeg" i]:not(.nofancybox)');
+fb_IMG_select.addClass('fancybox image');
+var fb_IMG_sections=jQuery('.gallery,.wp-block-gallery,.tiled-gallery,.wp-block-jetpack-tiled-gallery,.ngg-galleryoverview,.ngg-imagebrowser,.nextgen_pro_blog_gallery,.nextgen_pro_film,.nextgen_pro_horizontal_filmstrip,.ngg-pro-masonry-wrapper,.ngg-pro-mosaic-container,.nextgen_pro_sidescroll,.nextgen_pro_slideshow,.nextgen_pro_thumbnail_grid,.tiled-gallery');
+fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});
+jQuery('a.fancybox,area.fancybox,.fancybox>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'transition':'elastic','transitionIn':'elastic','transitionOut':'elastic','opacity':false,'hideOnContentClick':false,'titleShow':true,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false,'mouseWheel':'true','changeSpeed':250,'changeFade':300}))});
+};};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+/* ]]> */
+</script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/easy-fancybox/vendor/jquery.easing.min.js" id="jquery-easing-js"></script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/easy-fancybox/vendor/jquery.mousewheel.min.js" id="jquery-mousewheel-js"></script> <script type="text/javascript" id="q2w3_fixed_widget-js-extra">
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"sidebar","use_sticky_position":false,"margin_top":10,"margin_bottom":0,"stop_elements_selectors":"","screen_max_width":0,"screen_max_height":0,"widgets":["#custom_html-5"]}];
+/* ]]> */
+</script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/q2w3-fixed-widget/js/frontend.min.js" id="q2w3_fixed_widget-js"></script> <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LehlZYUAAAAAAXAVY09DeBzWeWA-7uCWEPWuHZ3" id="google-recaptcha-js"></script> <script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LehlZYUAAAAAAXAVY09DeBzWeWA-7uCWEPWuHZ3","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script> <script type="text/javascript" src="https://ostrovrusa.ru/wp-content/plugins/contact-form-7/modules/recaptcha/index.js" id="wpcf7-recaptcha-js"></script> <!--noindex--> <script type="text/javascript">
+function slyLink() {
+    var istS = 'Информация взята из:';
+    var body_element = document.getElementsByTagName('body')[0];
+    var choose;
+    choose = window.getSelection();
+    var myLink = document.location.href;
+    var authorLink = "<br />" + istS + ' ' + "<a href='"+myLink+"'>"+myLink+"</a><br /><br />"; 
+    var copytext = choose + authorLink;
+    var addDiv = document.createElement('div');
+    body_element.appendChild(addDiv);
+    addDiv.innerHTML = copytext;
+    choose.selectAllChildren(addDiv);
+    window.setTimeout(function() {
+        body_element.removeChild(addDiv);
+    },0);
+}
+document.oncopy = slyLink;
+</script> <!--/noindex--> <!-- Yandex.Metrika counter --> <script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(52364869, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script> <noscript><div><img src="https://mc.yandex.ru/watch/52364869" style="position:absolute; left:-9999px;" alt=""/></div></noscript> <!-- /Yandex.Metrika counter --> <!--noindex--> <div class="pulso_fix" style="position: fixed;display: -webkit-flex;-webkit-justify-content: center;-webkit-align-content: space-between;display: flex;justify-content: center;align-content: space-between;bottom: 3px;width: 100%;z-index: 999;"> </div> <!--/noindex--> </body> </html> 

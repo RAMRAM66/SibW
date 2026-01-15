@@ -1,0 +1,1192 @@
+.group-month a,
+.group-month a:hover {
+  display: block;
+  text-decoration: none;
+  color: #0F004A;
+  cursor: pointer;
+}
+
+.group-month .row {
+  border-radius: 9px;
+  background: #fff;
+  padding: 25px 15px;
+  margin: 30px 0;
+  border: 1px solid transparent;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.group-month .row:hover {
+  border: 1px solid #dcdcdc;
+}
+
+.group-month .row.rate1 {
+  background: #ef9e9c;
+}
+
+.group-month .row.rate2 {
+  background: #f8cfd0;
+}
+
+.group-month .row.rate3 {
+  background: #fbf2f8;
+  /*background: linear-gradient(120.33deg, #F6F2FF -1.08%, #F1FFF8 100%);*/
+}
+
+.group-month .row.rate4 {
+  background: #e0fdd4;
+}
+
+.group-month .row.rate5 {
+  background: #b2fb96;
+}
+
+.group-month .row .date {
+  color: #0F004A;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.group-month .row .week-day {
+  color: #5c2232;
+}
+
+.group-month .row .weight-status span {
+  font-size: 32px;
+}
+
+.group-month .row .weight-status .weight-3 {
+  color: #2B801D;
+}
+
+.group-month .row .weight-status .weight-2 {
+  color: #F1C527;
+}
+
+.group-month .row .weight-status .weight-1 {
+  color: #C60606;
+}
+
+.magnetic {
+  background: url(../img/mag_sprites.png) no-repeat;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  background-size: 135px;
+  margin-top: -4px;
+}
+
+.magnetic.magnetic-1 {
+  background-position: -34px 0px;
+}
+
+.magnetic.magnetic-2 {
+  background-position: -69px 0px;
+}
+
+.magnetic.magnetic-3 {
+  background-position: -102px 0px;
+}
+
+.magnetic.magnetic-4 {
+  background-position: -69px 0px;
+}
+
+.magnetic.magnetic-5 {
+  background-position: -69px 0px;
+}
+
+.magnetic.magnetic-6 {
+  background-position: -69px 0px;
+}
+
+.magnetic.magnetic-7 {
+  background-position: -69px 0px;
+}
+
+.zodiac {
+  background: url(../img/zodiac.png) no-repeat;
+  width: 19px;
+  height: 19px;
+  display: inline-block;
+  background-size: 80px;
+  margin-left: 7px;
+  position: absolute;
+}
+
+.zodiac.ar {
+  background-position: 0 0;
+}
+
+.zodiac.ta {
+  background-position: -20px 0;
+}
+
+.zodiac.ge {
+  background-position: -41px 0;
+}
+
+.zodiac.cn {
+  background-position: -61px 0;
+}
+
+.zodiac.le {
+  background-position: 0 -20px;
+}
+
+.zodiac.vi {
+  background-position: -20px -20px;
+}
+
+.zodiac.sc {
+  background-position: -41px -20px;
+}
+
+.zodiac.sc {
+  background-position: -61px -20px;
+}
+
+.zodiac.sa {
+  background-position: 0 -40px;
+}
+
+.zodiac.cp {
+  background-position: -20px -40px;
+}
+
+.zodiac.aq {
+  background-position: -41px -40px;
+}
+
+.zodiac.pi {
+  background-position: -61px -40px;
+}
+
+.moon-phase {
+  background: url(../img/phase.png) no-repeat;
+  width: 69px;
+  height: 69px;
+  display: block;
+}
+
+.moon-phase.moon-phase-0 {
+  background-position: -160px -160px;
+}
+
+.moon-phase.moon-phase-1 {
+  background-position: -240px -160px;
+}
+
+.moon-phase.moon-phase-2 {
+  background-position: -320px -160px;
+}
+
+.moon-phase.moon-phase-3 {
+  background-position: -401px -160px;
+}
+
+.moon-phase.moon-phase-4 {
+  background-position: -482px -160px;
+}
+
+.moon-phase.moon-phase-5 {
+  background-position: 0 -240px;
+}
+
+.moon-phase.moon-phase-6 {
+  background-position: -80px -240px;
+}
+
+.moon-phase.moon-phase-7 {
+  background-position: -160px -240px;
+}
+
+.moon-phase.moon-phase-8 {
+  background-position: -240px -240px;
+}
+
+.moon-phase.moon-phase-9 {
+  background-position: -320px -240px;
+}
+
+.moon-phase.moon-phase-10 {
+  background-position: -401px -240px;
+}
+
+.moon-phase.moon-phase-11 {
+  background-position: -482px -240px;
+}
+
+.moon-phase.moon-phase-12 {
+  background-position: 0 0;
+}
+
+.moon-phase.moon-phase-13 {
+  background-position: -80px 0;
+}
+
+.moon-phase.moon-phase-14 {
+  background-position: -160px 0;
+}
+
+.moon-phase.moon-phase-15 {
+  background-position: -240px 0;
+}
+
+.moon-phase.moon-phase-16 {
+  background-position: -320px 0;
+}
+
+.moon-phase.moon-phase-17 {
+  background-position: -401px 0;
+}
+
+.moon-phase.moon-phase-18 {
+  background-position: -482px 0;
+}
+
+.moon-phase.moon-phase-19 {
+  background-position: 0 -80px;
+}
+
+.moon-phase.moon-phase-20 {
+  background-position: -80px -80px;
+}
+
+.moon-phase.moon-phase-21 {
+  background-position: -160px -80px;
+}
+
+.moon-phase.moon-phase-22 {
+  background-position: -240px -80px;
+}
+
+.moon-phase.moon-phase-23 {
+  background-position: -320px -80px;
+}
+
+.moon-phase.moon-phase-24 {
+  background-position: -401px -80px;
+}
+
+.moon-phase.moon-phase-25 {
+  background-position: -482px -80px;
+}
+
+.moon-phase.moon-phase-26 {
+  background-position: 0 -160px;
+}
+
+.moon-phase.moon-phase-27 {
+  background-position: -80px -160px;
+}
+
+.moon-phase.moon-phase-28 {
+  background-position: -160px -160px;
+}
+
+.moon-phase.moon-phase-29 {
+  background-position: -240px -160px;
+}
+
+.moon-phase.moon-phase-30 {
+  background-position: -320px -160px;
+}
+
+.moon-phase.moon-phase-31 {
+  background-position: -401px -160px;
+}
+
+.block-1 {
+  border: 1px solid grey;
+  box-shadow: grey 0px 0px 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.block-1 .c1 {
+  color: #0F004A;
+}
+
+.block-1 .c2 {
+  color: #002C81;
+}
+
+.block-1 .b-title {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.block2 .zodiac {
+  position: static;
+}
+
+.block2 label {
+  color: #0F004A;
+  font-weight: bold;
+}
+
+.block2 ul li {
+  list-style: none;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.sunrise {
+  display: block;
+  float: left;
+  width: 23px;
+  height: 23px;
+  background: url(../img/sunrise.png);
+  background-size: cover;
+  margin-right: 3px;
+}
+
+.sunset {
+  display: block;
+  float: left;
+  width: 23px;
+  height: 23px;
+  background: url(../img/sunset.png);
+  background-size: cover;
+  margin-right: 3px;
+}
+
+/*# sourceMappingURL=moon-moon.css.map */
+/* list moons days in month */
+.moon_a {
+  width: 100%;
+  clear: both;
+  overflow: hidden;
+}
+
+.moon_a > div {
+  float: left;
+  padding: 10px;
+  max-width: 200px;
+  line-height: 1.5;
+  max-height: 110px;
+}
+
+.moon_a .moon_mag-har,
+.moon_a .mb_bb-b{
+  max-width: 340px;
+  max-height: 80px;
+  clear: both;
+}
+
+.col_date {
+  width: 160px;
+}
+
+.col_date span {
+  display: block;
+}
+
+.moon_a .col_moon-ph {
+  padding-top: 0px;
+}
+
+.col_moon-cal {
+  width: 189px;
+}
+
+.col_moon-sun {
+  width: 120px;
+}
+
+.col_moon-trhe,
+.col_moon-for {
+  overflow: hidden;
+  clear: both;
+}
+
+.col_moon-zod {
+  width: 140px;
+}
+
+.mb_vv {
+  float: left;
+  line-height: 2.2;
+}
+
+.weight-status {
+  float: left;
+  line-height: 1;
+  padding: 0 10px;
+}
+
+.moon_b {
+  overflow: hidden;
+  clear: both;
+  padding: 25px 7px 0px;
+  width: 100%;
+}
+
+.mb_rig {
+  overflow: hidden;
+  float: right;
+  text-align: right;
+  max-width: 200px;
+  line-height: 3;
+  font-size: 14px;
+  padding-top: 15px;
+}
+
+.mb_rig:hover {
+  text-decoration: underline;
+}
+
+.mb_lef {
+  overflow: hidden;
+  float: left;
+}
+
+/* list good days for month and day */
+.blago_dni-blo {
+  background: #FAFAFF;
+  border-radius: 10px;
+  padding: 20px 20px;
+  overflow: hidden;
+  clear: both;
+  width: 100%;
+  margin: 20px 0 25px 0;
+  color: #002C81;
+}
+
+.first_bl-dn {
+  background: linear-gradient(120.33deg, #F6F2FF -1.08%, #F1FFF8 100%);
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+  padding: 15px 25px;
+  max-width: 420px;
+}
+
+.first_bl-dn,
+.second_bl-dn {
+  overflow: hidden;
+  float: left;
+  width: 49%;
+  min-width: 325px;
+  padding: 15px;
+}
+
+.second_bl-dn {
+  float: right;
+  padding: 0 5px 0 15px;
+  max-width: 420px;
+}
+
+.plus-top {
+  overflow: hidden;
+  clear: both;
+  margin: 0 0 20px;
+}
+
+.b-title.c1 {
+  color: #0F004A;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}
+
+.a-title.c2 {
+  text-align: center;
+}
+
+.plus-centr {
+  clear: both;
+  overflow: hidden;
+  margin: 0 0 20px 0;
+  padding: 0 20px 20px;
+  border-bottom: 1px solid #CC79FF;
+  width: 100%;
+}
+
+.pc_mi-on {
+  overflow: hidden;
+  float: left;
+  padding-right: 15px;
+}
+
+.pc_mi-tw {
+  padding-top: 7px;
+  text-align: center;
+}
+
+.c1_bott {
+  display: block;
+  float: left;
+  padding-right: 10px;
+}
+
+.da_sun {
+  display: block;
+  float: right;
+}
+
+.plus-bottom {
+  overflow: hidden;
+  clear: both;
+  padding: 10px 20px 20px;
+}
+
+.pl_su-ri {
+  clear: both;
+  overflow: hidden;
+  padding: 0 0 10px 0;
+}
+
+.col_moon-sev {
+  padding: 0 20px 20px;
+}
+
+.detal_den {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sec-bl_one {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  flex: 115px;
+  padding: 10px 15px 15px 0;
+  border-right: 1px solid #CC79FF;
+  font-weight: bold;
+}
+
+.sec-bl_two {
+  float: right;
+  overflow: hidden;
+  flex: 190px;
+  padding: 10px 0 15px 15px;
+  display: flex;
+  align-items: center;
+}
+
+.sec-bl_two ul,
+.sec-bl_two ul li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.zodiac.z_onelist {
+  display: block;
+  overflow: hidden;
+  float: left;
+  position: relative;
+  margin: 3px 5px 0 5px;
+}
+
+.vznake,
+.stat_zod {
+  display: block;
+  overflow: hidden;
+  float: left;
+}
+
+/*# widgets - magnetic storms */
+.all_tab-mb {
+  margin: 25px 0 35px 0;
+  clear: both;
+}
+
+.all_tab-mb th {
+  text-align: center;
+  padding: 15px 0 25px;
+  color: #0F004A;
+}
+
+.all_tab-mb tr:hover {
+  background-color: #eee;
+}
+
+.tab_mg-value {
+  height: 60px;
+}
+
+.mb_value {
+  overflow: hidden;
+  text-align: center;
+  width: 50px;
+  font-size: 17px;
+  line-height: 3;
+  color: #002C81;
+  font-weight: bold;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.moon_mbur-1,
+.moon_mbur-0 {
+  background: url(../img/svg/mb_1.svg) no-repeat;
+  background-size: 50px;
+}
+
+.moon_mbur-2 {
+  background: url(../img/svg/mb_2.svg) no-repeat;
+  background-size: 50px;
+}
+
+.moon_mbur-3 {
+  background: url(../img/svg/mb_3.svg) no-repeat;
+  background-size: 50px;
+}
+
+.moon_mbur-4 {
+  background: url(../img/svg/mb_4.svg) no-repeat;
+  background-size: 50px;
+}
+
+.moon_mbur-5 {
+  background: url(../img/svg/mb_5.svg) no-repeat;
+  background-size: 50px;
+}
+
+.moon_mbur-6 {
+  background: url(../img/svg/mb_6.svg) no-repeat;
+  background-size: 50px;
+}
+
+.moon_mbur-7 {
+  background: url(../img/svg/mb_7.svg) no-repeat;
+  background-size: 50px;
+}
+
+.moon_mbur-8 {
+  background: url(../img/svg/mb_8.svg) no-repeat;
+  background-size: 50px;
+}
+
+.moon_mbur-9 {
+  background: url(../img/svg/mb_9.svg) no-repeat;
+  background-size: 50px;
+}
+
+.mb_one-month th {
+  text-align: center;
+  padding: 15px 0;
+  color: #002C81;
+}
+
+.mb_one-month tr,
+.mb_one-month th {
+  border-bottom: 1px solid #eee;
+}
+
+.mgcal-one_bl {
+  width: 80px;
+  height: 80px;
+  position: relative;
+  padding: 10px;
+}
+
+.all-tab_mg {
+  overflow: hidden;
+  color: #002C81;
+}
+
+.mgcal-val_date-big {
+  overflow: hidden;
+  font-size: 19px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #eeeeee78;
+  text-align: center;
+  line-height: 50px;
+}
+
+.mgcal-val_mg-smal {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  width: 50px;
+  height: 50px;
+  text-align: right;
+  padding: 13px 20px;
+}
+
+.bgmg-1 .mgcal-val_date-big,
+.val_stat.val-tabl_mg_1,
+.moon_mbur-0,
+.moon_mbur-1 {
+  background-color: #e8f1c4a8;
+}
+
+.bgmg-1 .mgcal-val_mg-smal {
+  background: url(../img/svg/mb_1.svg) no-repeat;
+  background-size: 50px;
+}
+
+.bgmg-2 .mgcal-val_date-big,
+.val_stat.val-tabl_mg_2,
+.moon_mbur-2 {
+  background-color: #d6e48cab;
+}
+
+.bgmg-2 .mgcal-val_mg-smal {
+  background: url(../img/svg/mb_2.svg) no-repeat;
+  background-size: 50px;
+}
+
+.bgmg-3 .mgcal-val_date-big,
+.val_stat.val-tabl_mg_3,
+.moon_mbur-3 {
+  background-color: #c3d993;
+}
+
+.bgmg-3 .mgcal-val_mg-smal {
+  background: url(../img/svg/mb_3.svg) no-repeat;
+  background-size: 50px;
+}
+
+.bgmg-4 .mgcal-val_date-big,
+.val_stat.val-tabl_mg_4,
+.moon_mbur-4 {
+  background-color: #b6d0a0;
+}
+
+.bgmg-4 .mgcal-val_mg-smal {
+  background: url(../img/svg/mb_4.svg) no-repeat;
+  background-size: 50px;
+}
+
+.bgmg-5 .mgcal-val_date-big,
+.val_stat.val-tabl_mg_5,
+.moon_mbur-5 {
+  background-color: #c6c2e3;
+}
+
+.bgmg-5 .mgcal-val_mg-smal {
+  background: url(../img/svg/mb_5.svg) no-repeat;
+  background-size: 50px;
+}
+
+.bgmg-6 .mgcal-val_date-big,
+.val_stat.val-tabl_mg_6,
+.moon_mbur-6 {
+  background-color: #f7d5f4;
+}
+
+.bgmg-6 .mgcal-val_mg-smal {
+  background: url(../img/svg/mb_6.svg) no-repeat;
+  background-size: 50px;
+}
+
+.bgmg-7 .mgcal-val_date-big,
+.val_stat.val-tabl_mg_7,
+.moon_mbur-7 {
+  background-color: #f8b8c2;
+}
+
+.bgmg-7 .mgcal-val_mg-smal {
+  background: url(../img/svg/mb_7.svg) no-repeat;
+  background-size: 50px;
+}
+
+.bgmg-8 .mgcal-val_date-big,
+.val_stat.val-tabl_mg_8,
+.moon_mbur-8 {
+  background-color: #fb8581;
+}
+
+.bgmg-8 .mgcal-val_mg-smal {
+  background: url(../img/svg/mb_8.svg) no-repeat;
+  background-size: 50px;
+}
+
+.bgmg-9 .mgcal-val_date-big,
+.val_stat.val-tabl_mg_9,
+.moon_mbur-9 {
+  background-color: #c94844;
+}
+
+.bgmg-9 .mgcal-val_mg-smal {
+  background: url(../img/svg/mb_9.svg) no-repeat;
+  background-size: 50px;
+}
+
+.magnitnye-buri-items {
+  overflow: hidden;
+  clear: both;
+  margin: 0 0 30px;
+}
+
+ul.uldesc,
+.uldesc li {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  overflow: hidden;
+}
+
+ul.uldesc {
+  float: left;
+  overflow: hidden;
+  width: 33%;
+}
+
+.uldesc li {
+  padding-bottom: 5px;
+}
+
+.val_stat {
+  overflow: hidden;
+  float: left;
+  padding: 10px;
+  margin-right: 10px;
+  background-size: 50px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 2;
+  color: #002C81;
+  font-weight: bold;
+  border-radius: 50%;
+}
+
+.val_stat.val-tabl_mg_1 {
+  background-image: url(../img/svg/mb_1.svg);
+}
+
+.val_stat.val-tabl_mg_2 {
+  background-image: url(../img/svg/mb_2.svg);
+}
+
+.val_stat.val-tabl_mg_3 {
+  background-image: url(../img/svg/mb_3.svg);
+}
+
+.val_stat.val-tabl_mg_4 {
+  background-image: url(../img/svg/mb_4.svg);
+}
+
+.val_stat.val-tabl_mg_5 {
+  background-image: url(../img/svg/mb_5.svg);
+}
+
+.val_stat.val-tabl_mg_6 {
+  background-image: url(../img/svg/mb_6.svg);
+}
+
+.val_stat.val-tabl_mg_7 {
+  background-image: url(../img/svg/mb_7.svg);
+}
+
+.val_stat.val-tabl_mg_8 {
+  background-image: url(../img/svg/mb_8.svg);
+}
+
+.val_stat.val-tabl_mg_9 {
+  background-image: url(../img/svg/mb_9.svg);
+}
+
+.val_name-m {
+  overflow: hidden;
+  float: left;
+  padding-top: 10px;
+}
+
+.magnetic-g .magnetic {
+  position: static;
+}
+.magnetic-g .magnetic span {
+  position: relative;
+  top: -14px;
+  font-size: 15px;
+  left: 13px;
+}
+
+html body .displ_non {
+  display: none;
+}
+
+/****new_edit*****/
+.blago_dni-blo {
+  display: flex;
+}
+
+.first_bl-dn {
+  flex: auto;
+}
+
+.second_bl-dn {
+  display: flex;
+  padding: 0 0 0 30px;
+}
+
+.sec-bl_two {
+  flex: 165px;
+}
+
+.blago_dni-blo.one_day_a .sec-bl_two ul,
+.blago_dni-blo.one_day_a .sec-bl_two li {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.blago_dni-blo.one_day_a .sec-bl_two li:before {
+  display: none;
+}
+
+.blago_dni-blo.one_day_a .sec-bl_two li {
+  padding-bottom: 15px;
+}
+
+.sec-bl_two.magnetic-g {
+  display: none;
+}
+
+.magnitnye-buri-items ul.uldesc.uldesc-one,
+.magnitnye-buri-items ul.uldesc.uldesc-one li,
+.magnitnye-buri-items ul.uldesc.uldesc-two,
+.magnitnye-buri-items ul.uldesc.uldesc-two li,
+.magnitnye-buri-items ul.uldesc.uldesc-three,
+.magnitnye-buri-items ul.uldesc.uldesc-three li {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+.magnitnye-buri-items ul.uldesc.uldesc-one li,
+.magnitnye-buri-items ul.uldesc.uldesc-two li,
+.magnitnye-buri-items ul.uldesc.uldesc-three li {
+  padding-bottom: 5px;
+}
+
+.magnitnye-buri-items ul.uldesc.uldesc-one li:before,
+.magnitnye-buri-items ul.uldesc.uldesc-two li:before,
+.magnitnye-buri-items ul.uldesc.uldesc-three li:before {
+  display: none;
+}
+
+.moo_date {
+  overflow: hidden;
+  float: left;
+  width: 180px;
+  padding: 10px 0 0 0;
+}
+
+.mdat_date {
+  font-size: 110%;
+}
+
+.mdat_day {
+  color: #525252;
+  font-size: 90%;
+}
+.moo_event{
+  overflow: hidden;
+  clear: both;
+  margin-bottom: 30px;
+}
+.mooholi_bl{
+  overflow: hidden;
+  clear: both;
+  padding: 15px 0;
+  border-bottom: 1px solid #ced4d8;
+}
+.list_holi {
+  overflow: hidden;
+}
+
+.like-holiday{
+  cursor: pointer;
+}
+
+.moo_event .list_holi ul,
+.moo_event .list_holi ul li {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.moo_event .list_holi ul li {
+  padding: 10px 10px 10px 20px;
+  border-bottom: 0;
+  font-size: 110%;
+}
+.moo_event .list_holi ul li:before{
+  content: none;
+  width: 0px;
+  height: 0px;
+}
+
+.like-holiday:before {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+  opacity: .4;
+  background: no-repeat center url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAAxCAMAAAC8okrZAAAAkFBMVEUAAAD0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VFr0VVr0VVr0VVr0VVn0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VVr0VFr0VVr0VVr0VVr0VVr0VVr0VVrzVFr0VVqShe7GAAAAL3RSTlMAOgXJ+yonDde/qRf37yHp5BwQCN+cgQL1w7qkem4y4bKLdFFAz5FlV0a2k1pIRpMZ24oAAAGRSURBVEjHnZTZkoJADEUviOy7gKiAG26jM/3/fzcFVURQsEyf11uxc2II+qi+cvtTdBVEP7kp/gLjRMWPmYTh1lwX+rIfLP2yTRJznfl4Y6GkuSC0dWVQMrddQbh2bWBAfEjEgKD7fafcDpNw7wx6vbvihdzW28rUe020VAfhpJp4Q7OaoTyb7TdNxvFZjGLHxn082XQ9XwMxine4TCRuiRbjJCZITG0i2UZoeFDOoGgftYQEZvNsvZUpDY4ALp5MaZ4B6l4TMmwMGBshxc5BbMuVriP5VyOoZzlX2wBKqQm7GYDfUOp/vQJwZlLbpDeXp5ApTdX2Q5fo2NPRUubcSi3r7ovN3ge/u7MVc1In5XmnddY3a1XoMWe8u9IxQFl9O6FdhSGqMvuu0vbJk+eb7xcgWL7eXgXB8g2KGATL1zsYmGRufb6fBM/XfIDg+ZpHmi3TN6lptjxfbRZRzvN1d7S2TF9386xk+qYORTxf7wyC5xtkMXgoVrd8VMn1vdDaMn3DK6SYn8yjCjmq+uPa/gPvKDmhVE4CqwAAAABJRU5ErkJggg==);
+  background-size: contain;
+  margin-right: 5px;
+}
+
+.like-holiday.like:before {
+  opacity: 1;
+}
+
+/*# sourceMappingURL=moon-moon.css.map */
+
+/*# MOBILE MOONMOON */
+@media (max-width: 1195px){
+  .blago_dni-blo{
+    display: block;
+    padding: 25px;
+  }
+  .first_bl-dn{
+    display: block;
+    width: 100%;
+    margin-bottom: 25px;
+  }
+  .second_bl-dn{
+    display: block;
+    float: left;
+    width: 100%;
+    padding: 0px;
+  }
+  .sec-bl_one,
+  .sec-bl_two{
+    flex: 50%;
+  }
+  .moo_date{
+    width: auto;
+    float: none;
+    font-weight: bold;
+  }
+}
+
+@media (max-width: 800px){
+  .val_stat{
+    margin-top: 7px;
+  }
+  .val_name-m {
+    overflow: hidden;
+    float: left;
+    padding-top: 0px;
+    width: 100px;
+  }
+}
+@media (max-width: 600px){
+  .all-tab_mg{
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .mgcal-val_date-big{
+    text-align: center;
+    float: left;
+    margin: 0 auto;
+  }
+  .mgcal-val_mg-smal{
+    position: relative;
+    float: left;
+    width: auto;
+  }
+}
+@media (max-width: 500px){
+  .first_bl-dn{
+    border-radius: 0px;
+  }
+  .blago_dni-blo{
+    padding: 0px;
+  }
+  .second_bl-dn{
+    padding: 0 15px;
+  }
+}
+
+.superstitions .day-info {
+  text-align: center;
+  font-size: 1.3em;
+  margin: 10px 0;
+}
+.superstitions .title {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+.superstitions .list ul {
+  margin: 0;
+  list-style: none;
+  padding: 15px;
+  width: 100%;
+  font-size: 1em;
+  line-height: 1.8;
+  border-radius: 10px;
+}
+.superstitions .pm {
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 500px) {
+  .superstitions .pm {
+    flex-direction: column;
+  }
+}
+.superstitions .pm > div {
+  display: flex;
+  flex: 1;
+}
+.superstitions .list ul.s-list {
+  margin: 5px 0;
+  background: #f2f5f9;
+}
+
+.superstitions .list ul.p-list {
+  background: #dcfcd1;
+  margin: 5px 5px 5px 0;
+}
+.superstitions .list ul.m-list {
+  background: #f8e4e4;
+  margin: 5px 0 5px 5px;
+}
+.superstitions .group{
+  padding: 1.7em 0;
+}
+.superstitions .fir_bl_prim{
+  overflow: hidden;
+  float: left;
+  margin-right: 10px;
+}
+.superstitions .sec_bl_prim{
+  overflow: hidden;
+}
+.superstitions .fa-minus:before{
+  color: #4c3bfd;
+}
+.superstitions .fa-check-circle:before{
+  color: green;
+}
+.superstitions .fa-times-circle:before{
+  color: red;
+}
+.superstitions ul.s-list li{
+  padding: 0 0 7px 0;
+  list-style: none;
+}
+.clink {
+  cursor: pointer;
+}
+
+.superstitions .s-list li:before,
+.superstitions .p-list li:before,
+.superstitions .m-list li:before{
+  content:none;
+}
+.superstitions .s-list li,
+.superstitions .p-list li,
+.superstitions .m-list li{
+  padding-left: 0px;
+}
+.superstitions .fa{
+  font: normal normal normal 14px/1.6 FontAwesome;
+}

@@ -1,0 +1,117 @@
+.wr-vote2x-tpl {
+    padding: 30px;
+    width: 220px;
+    text-align: center;
+    overflow: hidden;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.wr-vote2x-tpl span.wr-mask-vote2ximsge-bg {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: #000;
+    -moz-opacity: .6;
+    -khtml-opacity: .6;
+    opacity: .6;
+}
+.bg-pvote2x {
+    position: relative;
+    z-index: 1000;
+}
+.title-vote2x {
+    font-size: 22px;
+    line-height: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+	color: #fff;
+}
+.button-vote2x {
+    background: #fff;
+    display: inline-block;
+    vertical-align: top;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.button-vote2x>span {
+    float: left;
+    font-size: 28px;
+    line-height: 30px;
+    padding: 8px 19px 14px;
+    font-weight: 700;
+}
+.button-vote2x>span:last-child {
+border-left: 2px solid #e5e5e5;
+}
+.button-vote2x>span>span.namebox {
+    font-weight: 400;
+       background: 0 !important;
+    color: #858585;
+    font-size: 12px;
+    display: block;
+    line-height: 12px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    font-style: italic;
+}
+.button-vote2x>span {
+    position: relative;
+}
+.button-vote2x>span {
+    padding: 11px 19px 16px;
+}
+.button-vote2x>span>span {
+    background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #02939d), color-stop(0.15, #02939d), color-stop(0.3, #1ca57f), color-stop(0.45, #41bd55), color-stop(0.6, #31b367),color-stop(0.75, #4bc34a) );
+    background-image: gradient( linear, left top, right top, color-stop(0, #02939d), color-stop(0.15, #02939d), color-stop(0.3, #1ca57f), color-stop(0.45, #41bd55), color-stop(0.6, #31b367),color-stop(0.75, #4bc34a) );
+    color:transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+.button-vote2x span.click-vote2x {
+    cursor: pointer;
+}
+.button-vote2x>span.click-vote2x:hover {
+    background: #e5e5e5 !important;
+}
+.button-vote2x>span:last-child>span {
+    background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f78e53), color-stop(0.15, #f28460), color-stop(0.3, #ed796f), color-stop(0.45, #e66a82), color-stop(0.6, #e3628c),color-stop(0.75, #df5a96) );
+    background-image: gradient( linear, left top, right top, color-stop(0, #02939d), color-stop(0.15, #02939d), color-stop(0.3, #1ca57f), color-stop(0.45, #41bd55), color-stop(0.6, #31b367),color-stop(0.75, #4bc34a) );
+
+}
+.wr-vote2x-tpl.no-vote2ximsge-bg {
+    background: #e9ecf1;
+}
+.wr-vote2x-tpl.no-vote2ximsge-bg .title-vote2x {
+    color: #1b1e28;
+}
+@media screen and (max-width: 1000px){
+.wr-vote2x-tpl {
+    width: auto !important;
+    float: none !important;
+    max-width: 400px !important;
+    margin: 20px auto !important;
+}
+.button-vote2x>span {
+    display: block;
+    text-align: center;
+    float: none;
+    border: 0 !important;
+}
+.button-vote2x>span:first-child {
+    border-bottom: 2px solid #e5e5e5 !important;
+}
+}
+.active-box_vote2x {
+    display: inline-block;
+}
+.hide-box_vote2x {
+    display: none;
+}
